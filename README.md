@@ -49,7 +49,7 @@ const secret = answers[Math.floor(Math.random() * answers.length)];
 
 ```python
 from datasets import load_dataset
-answers = load_dataset("motvalide/french-wordle-sutom-word-lists", "wordle_answers", split="train")
+answers = load_dataset("verbarium/french-wordle-sutom-word-lists", "wordle_answers", split="train")
 ```
 
 ## How The Lists Are Built
@@ -59,7 +59,7 @@ answers = load_dataset("motvalide/french-wordle-sutom-word-lists", "wordle_answe
 - **Answers** are common nouns, adjectives and verb infinitives in the singular, picked with [Lexique 3.83](http://www.lexique.org/) (Boris New and Christophe Pallier, CC BY-SA 4.0), with a Zipf frequency of 3 or more. Words tagged vulgar or offensive in the French Wiktionary are left out.
 - **Best openers** are ranked by expected information against every answer, with Wordle rules for repeated letters.
 
-Full documentation, patterns and a starter notebook are on [Kaggle](https://www.kaggle.com/datasets/cuivrax/french-word-games-starter-pack) and [Hugging Face](https://huggingface.co/datasets/motvalide/french-wordle-sutom-word-lists).
+Full documentation, patterns and a starter notebook are on [Kaggle](https://www.kaggle.com/datasets/cuivrax/french-word-games-starter-pack) and [Hugging Face](https://huggingface.co/datasets/verbarium/french-wordle-sutom-word-lists).
 
 ## License And Credit
 
