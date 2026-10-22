@@ -25,6 +25,7 @@ père,PERE,4,easy,5.44,https://www.motvalide.fr/mot/pere
 face,FACE,4,easy,5.42,https://www.motvalide.fr/mot/face
 dieu,DIEU,4,easy,5.40,https://www.motvalide.fr/mot/dieu
 fils,FILS,4,easy,5.40,https://www.motvalide.fr/mot/fils
+idée,IDEE,4,easy,5.38,https://www.motvalide.fr/mot/idee
 nuit,NUIT,4,easy,5.38,https://www.motvalide.fr/mot/nuit
 tour,TOUR,4,easy,5.37,https://www.motvalide.fr/mot/tour
 aura,AURA,4,easy,5.36,https://www.motvalide.fr/mot/aura
@@ -113,6 +114,7 @@ faim,FAIM,4,easy,4.61,https://www.motvalide.fr/mot/faim
 lait,LAIT,4,easy,4.61,https://www.motvalide.fr/mot/lait
 lune,LUNE,4,easy,4.61,https://www.motvalide.fr/mot/lune
 euro,EURO,4,easy,4.60,https://www.motvalide.fr/mot/euro
+race,RACE,4,easy,4.60,https://www.motvalide.fr/mot/race
 robe,ROBE,4,easy,4.59,https://www.motvalide.fr/mot/robe
 rang,RANG,4,easy,4.58,https://www.motvalide.fr/mot/rang
 vive,VIVE,4,easy,4.58,https://www.motvalide.fr/mot/vive
@@ -138,6 +140,7 @@ show,SHOW,4,easy,4.45,https://www.motvalide.fr/mot/show
 abus,ABUS,4,easy,4.44,https://www.motvalide.fr/mot/abus
 mine,MINE,4,easy,4.44,https://www.motvalide.fr/mot/mine
 mail,MAIL,4,easy,4.43,https://www.motvalide.fr/mot/mail
+ange,ANGE,4,easy,4.41,https://www.motvalide.fr/mot/ange
 miss,MISS,4,easy,4.41,https://www.motvalide.fr/mot/miss
 abri,ABRI,4,easy,4.40,https://www.motvalide.fr/mot/abri
 hâte,HATE,4,easy,4.40,https://www.motvalide.fr/mot/hate
@@ -195,6 +198,7 @@ case,CASE,4,medium,4.17,https://www.motvalide.fr/mot/case
 foie,FOIE,4,medium,4.16,https://www.motvalide.fr/mot/foie
 lord,LORD,4,medium,4.15,https://www.motvalide.fr/mot/lord
 saut,SAUT,4,medium,4.15,https://www.motvalide.fr/mot/saut
+porc,PORC,4,medium,4.14,https://www.motvalide.fr/mot/porc
 écho,ECHO,4,medium,4.13,https://www.motvalide.fr/mot/echo
 gang,GANG,4,medium,4.13,https://www.motvalide.fr/mot/gang
 trio,TRIO,4,medium,4.13,https://www.motvalide.fr/mot/trio
@@ -211,7 +215,7 @@ home,HOME,4,medium,4.06,https://www.motvalide.fr/mot/home
 hôte,HOTE,4,medium,4.06,https://www.motvalide.fr/mot/hote
 nana,NANA,4,medium,4.06,https://www.motvalide.fr/mot/nana
 chou,CHOU,4,medium,4.05,https://www.motvalide.fr/mot/chou
-flic,FLIC,4,medium,4.05,https://www.motvalide.fr/mot/flic
+coco,COCO,4,medium,4.05,https://www.motvalide.fr/mot/coco
 soif,SOIF,4,medium,4.05,https://www.motvalide.fr/mot/soif
 cash,CASH,4,medium,4.04,https://www.motvalide.fr/mot/cash
 onde,ONDE,4,medium,4.04,https://www.motvalide.fr/mot/onde
@@ -223,6 +227,7 @@ saga,SAGA,4,medium,4.02,https://www.motvalide.fr/mot/saga
 sida,SIDA,4,medium,4.02,https://www.motvalide.fr/mot/sida
 noix,NOIX,4,medium,4.00,https://www.motvalide.fr/mot/noix
 visa,VISA,4,medium,4.00,https://www.motvalide.fr/mot/visa
+curé,CURE,4,medium,3.99,https://www.motvalide.fr/mot/cure
 fric,FRIC,4,medium,3.99,https://www.motvalide.fr/mot/fric
 soie,SOIE,4,medium,3.99,https://www.motvalide.fr/mot/soie
 char,CHAR,4,medium,3.98,https://www.motvalide.fr/mot/char
@@ -335,6 +340,7 @@ insu,INSU,4,medium,3.61,https://www.motvalide.fr/mot/insu
 nova,NOVA,4,medium,3.61,https://www.motvalide.fr/mot/nova
 rite,RITE,4,medium,3.61,https://www.motvalide.fr/mot/rite
 body,BODY,4,hard,3.60,https://www.motvalide.fr/mot/body
+bouc,BOUC,4,medium,3.60,https://www.motvalide.fr/mot/bouc
 cale,CALE,4,medium,3.60,https://www.motvalide.fr/mot/cale
 pneu,PNEU,4,medium,3.60,https://www.motvalide.fr/mot/pneu
 shit,SHIT,4,medium,3.60,https://www.motvalide.fr/mot/shit
@@ -343,6 +349,7 @@ abat,ABAT,4,medium,3.59,https://www.motvalide.fr/mot/abat
 dune,DUNE,4,medium,3.59,https://www.motvalide.fr/mot/dune
 foin,FOIN,4,medium,3.59,https://www.motvalide.fr/mot/foin
 fret,FRET,4,medium,3.59,https://www.motvalide.fr/mot/fret
+thon,THON,4,medium,3.58,https://www.motvalide.fr/mot/thon
 trek,TREK,4,hard,3.58,https://www.motvalide.fr/mot/trek
 folk,FOLK,4,hard,3.57,https://www.motvalide.fr/mot/folk
 lama,LAMA,4,medium,3.57,https://www.motvalide.fr/mot/lama
@@ -372,12 +379,14 @@ mono,MONO,4,hard,3.48,https://www.motvalide.fr/mot/mono
 seau,SEAU,4,hard,3.48,https://www.motvalide.fr/mot/seau
 anse,ANSE,4,hard,3.47,https://www.motvalide.fr/mot/anse
 must,MUST,4,hard,3.47,https://www.motvalide.fr/mot/must
+pion,PION,4,hard,3.47,https://www.motvalide.fr/mot/pion
 raie,RAIE,4,hard,3.47,https://www.motvalide.fr/mot/raie
 vrac,VRAC,4,hard,3.47,https://www.motvalide.fr/mot/vrac
 cône,CONE,4,hard,3.46,https://www.motvalide.fr/mot/cone
 haie,HAIE,4,hard,3.46,https://www.motvalide.fr/mot/haie
 grue,GRUE,4,hard,3.45,https://www.motvalide.fr/mot/grue
 guet,GUET,4,hard,3.45,https://www.motvalide.fr/mot/guet
+tata,TATA,4,hard,3.45,https://www.motvalide.fr/mot/tata
 tôle,TOLE,4,hard,3.45,https://www.motvalide.fr/mot/tole
 urne,URNE,4,hard,3.45,https://www.motvalide.fr/mot/urne
 zèle,ZELE,4,hard,3.45,https://www.motvalide.fr/mot/zele
@@ -419,6 +428,7 @@ mayo,MAYO,4,hard,3.33,https://www.motvalide.fr/mot/mayo
 quiz,QUIZ,4,hard,3.33,https://www.motvalide.fr/mot/quiz
 jeep,JEEP,4,hard,3.32,https://www.motvalide.fr/mot/jeep
 ovni,OVNI,4,hard,3.32,https://www.motvalide.fr/mot/ovni
+pouf,POUF,4,hard,3.32,https://www.motvalide.fr/mot/pouf
 gale,GALE,4,hard,3.31,https://www.motvalide.fr/mot/gale
 mage,MAGE,4,hard,3.31,https://www.motvalide.fr/mot/mage
 skin,SKIN,4,hard,3.31,https://www.motvalide.fr/mot/skin
@@ -428,6 +438,7 @@ ouïe,OUIE,4,hard,3.30,https://www.motvalide.fr/mot/ouie
 slow,SLOW,4,hard,3.30,https://www.motvalide.fr/mot/slow
 bave,BAVE,4,hard,3.29,https://www.motvalide.fr/mot/bave
 émir,EMIR,4,hard,3.29,https://www.motvalide.fr/mot/emir
+toto,TOTO,4,hard,3.29,https://www.motvalide.fr/mot/toto
 bibi,BIBI,4,hard,3.28,https://www.motvalide.fr/mot/bibi
 brio,BRIO,4,hard,3.28,https://www.motvalide.fr/mot/brio
 exit,EXIT,4,hard,3.28,https://www.motvalide.fr/mot/exit
@@ -480,7 +491,6 @@ tong,TONG,4,hard,3.17,https://www.motvalide.fr/mot/tong
 bora,BORA,4,hard,3.16,https://www.motvalide.fr/mot/bora
 flip,FLIP,4,hard,3.16,https://www.motvalide.fr/mot/flip
 gong,GONG,4,hard,3.16,https://www.motvalide.fr/mot/gong
-pine,PINE,4,hard,3.16,https://www.motvalide.fr/mot/pine
 asse,ASSE,4,hard,3.15,https://www.motvalide.fr/mot/asse
 hale,HALE,4,hard,3.15,https://www.motvalide.fr/mot/hale
 lino,LINO,4,hard,3.15,https://www.motvalide.fr/mot/lino
@@ -500,6 +510,7 @@ pieu,PIEU,4,hard,3.13,https://www.motvalide.fr/mot/pieu
 shah,SHAH,4,hard,3.13,https://www.motvalide.fr/mot/shah
 hadj,HADJ,4,hard,3.12,https://www.motvalide.fr/mot/hadj
 chai,CHAI,4,hard,3.11,https://www.motvalide.fr/mot/chai
+fion,FION,4,hard,3.11,https://www.motvalide.fr/mot/fion
 gaze,GAZE,4,hard,3.11,https://www.motvalide.fr/mot/gaze
 topo,TOPO,4,hard,3.11,https://www.motvalide.fr/mot/topo
 chip,CHIP,4,hard,3.10,https://www.motvalide.fr/mot/chip
@@ -530,6 +541,7 @@ mach,MACH,4,hard,3.05,https://www.motvalide.fr/mot/mach
 moue,MOUE,4,hard,3.05,https://www.motvalide.fr/mot/moue
 rave,RAVE,4,hard,3.05,https://www.motvalide.fr/mot/rave
 sape,SAPE,4,hard,3.05,https://www.motvalide.fr/mot/sape
+souk,SOUK,4,hard,3.05,https://www.motvalide.fr/mot/souk
 pacs,PACS,4,hard,3.04,https://www.motvalide.fr/mot/pacs
 titi,TITI,4,hard,3.04,https://www.motvalide.fr/mot/titi
 colt,COLT,4,hard,3.03,https://www.motvalide.fr/mot/colt
@@ -587,7 +599,6 @@ ordre,ORDRE,5,easy,5.29,https://www.motvalide.fr/mot/ordre
 livre,LIVRE,5,easy,5.26,https://www.motvalide.fr/mot/livre
 match,MATCH,5,easy,5.25,https://www.motvalide.fr/mot/match
 série,SERIE,5,easy,5.24,https://www.motvalide.fr/mot/serie
-merde,MERDE,5,easy,5.23,https://www.motvalide.fr/mot/merde
 peine,PEINE,5,easy,5.23,https://www.motvalide.fr/mot/peine
 doute,DOUTE,5,easy,5.22,https://www.motvalide.fr/mot/doute
 force,FORCE,5,easy,5.22,https://www.motvalide.fr/mot/force
@@ -609,6 +620,7 @@ scène,SCENE,5,easy,5.12,https://www.motvalide.fr/mot/scene
 cadre,CADRE,5,easy,5.11,https://www.motvalide.fr/mot/cadre
 image,IMAGE,5,easy,5.10,https://www.motvalide.fr/mot/image
 coupe,COUPE,5,easy,5.09,https://www.motvalide.fr/mot/coupe
+étude,ETUDE,5,easy,5.09,https://www.motvalide.fr/mot/etude
 objet,OBJET,5,easy,5.09,https://www.motvalide.fr/mot/objet
 poste,POSTE,5,easy,5.08,https://www.motvalide.fr/mot/poste
 salle,SALLE,5,easy,5.08,https://www.motvalide.fr/mot/salle
@@ -741,6 +753,7 @@ voile,VOILE,5,easy,4.49,https://www.motvalide.fr/mot/voile
 désir,DESIR,5,easy,4.48,https://www.motvalide.fr/mot/desir
 égard,EGARD,5,easy,4.48,https://www.motvalide.fr/mot/egard
 micro,MICRO,5,easy,4.48,https://www.motvalide.fr/mot/micro
+poche,POCHE,5,easy,4.48,https://www.motvalide.fr/mot/poche
 délai,DELAI,5,easy,4.47,https://www.motvalide.fr/mot/delai
 pause,PAUSE,5,easy,4.47,https://www.motvalide.fr/mot/pause
 quart,QUART,5,easy,4.47,https://www.motvalide.fr/mot/quart
@@ -761,6 +774,7 @@ repos,REPOS,5,easy,4.44,https://www.motvalide.fr/mot/repos
 cycle,CYCLE,5,easy,4.43,https://www.motvalide.fr/mot/cycle
 henry,HENRY,5,easy,4.43,https://www.motvalide.fr/mot/henry
 outil,OUTIL,5,easy,4.43,https://www.motvalide.fr/mot/outil
+queue,QUEUE,5,easy,4.43,https://www.motvalide.fr/mot/queue
 océan,OCEAN,5,easy,4.41,https://www.motvalide.fr/mot/ocean
 thèse,THESE,5,easy,4.41,https://www.motvalide.fr/mot/these
 virus,VIRUS,5,easy,4.41,https://www.motvalide.fr/mot/virus
@@ -822,6 +836,7 @@ débit,DEBIT,5,medium,4.24,https://www.motvalide.fr/mot/debit
 menée,MENEE,5,medium,4.24,https://www.motvalide.fr/mot/menee
 recul,RECUL,5,medium,4.24,https://www.motvalide.fr/mot/recul
 serge,SERGE,5,medium,4.23,https://www.motvalide.fr/mot/serge
+gosse,GOSSE,5,medium,4.22,https://www.motvalide.fr/mot/gosse
 marne,MARNE,5,medium,4.22,https://www.motvalide.fr/mot/marne
 pomme,POMME,5,medium,4.22,https://www.motvalide.fr/mot/pomme
 veste,VESTE,5,medium,4.22,https://www.motvalide.fr/mot/veste
@@ -846,6 +861,7 @@ câble,CABLE,5,medium,4.18,https://www.motvalide.fr/mot/cable
 congé,CONGE,5,medium,4.18,https://www.motvalide.fr/mot/conge
 herbe,HERBE,5,medium,4.18,https://www.motvalide.fr/mot/herbe
 rugby,RUGBY,5,medium,4.18,https://www.motvalide.fr/mot/rugby
+soupe,SOUPE,5,medium,4.18,https://www.motvalide.fr/mot/soupe
 baron,BARON,5,medium,4.17,https://www.motvalide.fr/mot/baron
 béton,BETON,5,medium,4.17,https://www.motvalide.fr/mot/beton
 délit,DELIT,5,medium,4.17,https://www.motvalide.fr/mot/delit
@@ -859,6 +875,7 @@ roule,ROULE,5,medium,4.16,https://www.motvalide.fr/mot/roule
 stock,STOCK,5,medium,4.16,https://www.motvalide.fr/mot/stock
 piège,PIEGE,5,medium,4.15,https://www.motvalide.fr/mot/piege
 saura,SAURA,5,medium,4.15,https://www.motvalide.fr/mot/saura
+tante,TANTE,5,medium,4.15,https://www.motvalide.fr/mot/tante
 colis,COLIS,5,medium,4.14,https://www.motvalide.fr/mot/colis
 loyer,LOYER,5,medium,4.14,https://www.motvalide.fr/mot/loyer
 poème,POEME,5,medium,4.14,https://www.motvalide.fr/mot/poeme
@@ -872,9 +889,11 @@ messe,MESSE,5,medium,4.12,https://www.motvalide.fr/mot/messe
 plomb,PLOMB,5,medium,4.12,https://www.motvalide.fr/mot/plomb
 bulle,BULLE,5,medium,4.11,https://www.motvalide.fr/mot/bulle
 chaos,CHAOS,5,medium,4.11,https://www.motvalide.fr/mot/chaos
+corde,CORDE,5,medium,4.11,https://www.motvalide.fr/mot/corde
 enjeu,ENJEU,5,medium,4.11,https://www.motvalide.fr/mot/enjeu
 globe,GLOBE,5,medium,4.11,https://www.motvalide.fr/mot/globe
 house,HOUSE,5,medium,4.11,https://www.motvalide.fr/mot/house
+lapin,LAPIN,5,medium,4.11,https://www.motvalide.fr/mot/lapin
 mythe,MYTHE,5,medium,4.11,https://www.motvalide.fr/mot/mythe
 bâton,BATON,5,medium,4.10,https://www.motvalide.fr/mot/baton
 deuil,DEUIL,5,medium,4.10,https://www.motvalide.fr/mot/deuil
@@ -923,6 +942,7 @@ bourg,BOURG,5,medium,4.00,https://www.motvalide.fr/mot/bourg
 chili,CHILI,5,medium,4.00,https://www.motvalide.fr/mot/chili
 frigo,FRIGO,5,medium,4.00,https://www.motvalide.fr/mot/frigo
 grade,GRADE,5,medium,4.00,https://www.motvalide.fr/mot/grade
+laine,LAINE,5,medium,4.00,https://www.motvalide.fr/mot/laine
 amant,AMANT,5,medium,3.99,https://www.motvalide.fr/mot/amant
 bague,BAGUE,5,medium,3.99,https://www.motvalide.fr/mot/bague
 démon,DEMON,5,medium,3.99,https://www.motvalide.fr/mot/demon
@@ -1019,7 +1039,6 @@ tommy,TOMMY,5,hard,3.82,https://www.motvalide.fr/mot/tommy
 vigne,VIGNE,5,medium,3.82,https://www.motvalide.fr/mot/vigne
 cuite,CUITE,5,medium,3.81,https://www.motvalide.fr/mot/cuite
 damas,DAMAS,5,medium,3.81,https://www.motvalide.fr/mot/damas
-pisse,PISSE,5,medium,3.81,https://www.motvalide.fr/mot/pisse
 canne,CANNE,5,medium,3.80,https://www.motvalide.fr/mot/canne
 delta,DELTA,5,medium,3.80,https://www.motvalide.fr/mot/delta
 drone,DRONE,5,medium,3.80,https://www.motvalide.fr/mot/drone
@@ -1032,6 +1051,7 @@ drive,DRIVE,5,medium,3.79,https://www.motvalide.fr/mot/drive
 fusée,FUSEE,5,medium,3.79,https://www.motvalide.fr/mot/fusee
 mêlée,MELEE,5,medium,3.79,https://www.motvalide.fr/mot/melee
 modem,MODEM,5,medium,3.79,https://www.motvalide.fr/mot/modem
+moule,MOULE,5,medium,3.79,https://www.motvalide.fr/mot/moule
 palme,PALME,5,medium,3.79,https://www.motvalide.fr/mot/palme
 perle,PERLE,5,medium,3.79,https://www.motvalide.fr/mot/perle
 sabre,SABRE,5,medium,3.79,https://www.motvalide.fr/mot/sabre
@@ -1200,13 +1220,17 @@ bingo,BINGO,5,hard,3.47,https://www.motvalide.fr/mot/bingo
 clerc,CLERC,5,hard,3.47,https://www.motvalide.fr/mot/clerc
 curie,CURIE,5,hard,3.47,https://www.motvalide.fr/mot/curie
 fable,FABLE,5,hard,3.47,https://www.motvalide.fr/mot/fable
+melon,MELON,5,hard,3.47,https://www.motvalide.fr/mot/melon
 répit,REPIT,5,hard,3.47,https://www.motvalide.fr/mot/repit
 caste,CASTE,5,hard,3.46,https://www.motvalide.fr/mot/caste
+dinde,DINDE,5,hard,3.46,https://www.motvalide.fr/mot/dinde
 punch,PUNCH,5,hard,3.46,https://www.motvalide.fr/mot/punch
 archi,ARCHI,5,hard,3.45,https://www.motvalide.fr/mot/archi
 catch,CATCH,5,hard,3.45,https://www.motvalide.fr/mot/catch
 écolo,ECOLO,5,hard,3.45,https://www.motvalide.fr/mot/ecolo
+horde,HORDE,5,hard,3.45,https://www.motvalide.fr/mot/horde
 pacha,PACHA,5,hard,3.45,https://www.motvalide.fr/mot/pacha
+tyran,TYRAN,5,hard,3.45,https://www.motvalide.fr/mot/tyran
 valve,VALVE,5,hard,3.45,https://www.motvalide.fr/mot/valve
 virée,VIREE,5,hard,3.45,https://www.motvalide.fr/mot/viree
 cidre,CIDRE,5,hard,3.44,https://www.motvalide.fr/mot/cidre
@@ -1238,6 +1262,7 @@ voyou,VOYOU,5,hard,3.41,https://www.motvalide.fr/mot/voyou
 arête,ARETE,5,hard,3.40,https://www.motvalide.fr/mot/arete
 crabe,CRABE,5,hard,3.40,https://www.motvalide.fr/mot/crabe
 glass,GLASS,5,hard,3.40,https://www.motvalide.fr/mot/glass
+digue,DIGUE,5,hard,3.39,https://www.motvalide.fr/mot/digue
 patch,PATCH,5,hard,3.39,https://www.motvalide.fr/mot/patch
 skate,SKATE,5,hard,3.39,https://www.motvalide.fr/mot/skate
 venin,VENIN,5,hard,3.39,https://www.motvalide.fr/mot/venin
@@ -1249,6 +1274,7 @@ malle,MALLE,5,hard,3.38,https://www.motvalide.fr/mot/malle
 swing,SWING,5,hard,3.38,https://www.motvalide.fr/mot/swing
 agace,AGACE,5,hard,3.37,https://www.motvalide.fr/mot/agace
 batte,BATTE,5,hard,3.37,https://www.motvalide.fr/mot/batte
+bille,BILLE,5,hard,3.37,https://www.motvalide.fr/mot/bille
 égout,EGOUT,5,hard,3.37,https://www.motvalide.fr/mot/egout
 gifle,GIFLE,5,hard,3.37,https://www.motvalide.fr/mot/gifle
 ponte,PONTE,5,hard,3.37,https://www.motvalide.fr/mot/ponte
@@ -1324,6 +1350,7 @@ click,CLICK,5,hard,3.25,https://www.motvalide.fr/mot/click
 flair,FLAIR,5,hard,3.25,https://www.motvalide.fr/mot/flair
 larve,LARVE,5,hard,3.25,https://www.motvalide.fr/mot/larve
 médoc,MEDOC,5,hard,3.25,https://www.motvalide.fr/mot/medoc
+morue,MORUE,5,hard,3.25,https://www.motvalide.fr/mot/morue
 satin,SATIN,5,hard,3.25,https://www.motvalide.fr/mot/satin
 tacle,TACLE,5,hard,3.25,https://www.motvalide.fr/mot/tacle
 truck,TRUCK,5,hard,3.25,https://www.motvalide.fr/mot/truck
@@ -1362,12 +1389,14 @@ bison,BISON,5,hard,3.19,https://www.motvalide.fr/mot/bison
 coche,COCHE,5,hard,3.19,https://www.motvalide.fr/mot/coche
 houle,HOULE,5,hard,3.19,https://www.motvalide.fr/mot/houle
 lande,LANDE,5,hard,3.19,https://www.motvalide.fr/mot/lande
+pitre,PITRE,5,hard,3.19,https://www.motvalide.fr/mot/pitre
 recto,RECTO,5,hard,3.19,https://www.motvalide.fr/mot/recto
 salam,SALAM,5,hard,3.19,https://www.motvalide.fr/mot/salam
 sigle,SIGLE,5,hard,3.19,https://www.motvalide.fr/mot/sigle
 agora,AGORA,5,hard,3.18,https://www.motvalide.fr/mot/agora
 dégât,DEGAT,5,hard,3.18,https://www.motvalide.fr/mot/degat
 devon,DEVON,5,hard,3.18,https://www.motvalide.fr/mot/devon
+garce,GARCE,5,hard,3.18,https://www.motvalide.fr/mot/garce
 grill,GRILL,5,hard,3.18,https://www.motvalide.fr/mot/grill
 malus,MALUS,5,hard,3.18,https://www.motvalide.fr/mot/malus
 pilon,PILON,5,hard,3.18,https://www.motvalide.fr/mot/pilon
@@ -1418,6 +1447,7 @@ volte,VOLTE,5,hard,3.11,https://www.motvalide.fr/mot/volte
 apnée,APNEE,5,hard,3.10,https://www.motvalide.fr/mot/apnee
 colza,COLZA,5,hard,3.10,https://www.motvalide.fr/mot/colza
 éther,ETHER,5,hard,3.10,https://www.motvalide.fr/mot/ether
+gnome,GNOME,5,hard,3.10,https://www.motvalide.fr/mot/gnome
 laque,LAQUE,5,hard,3.10,https://www.motvalide.fr/mot/laque
 sabot,SABOT,5,hard,3.10,https://www.motvalide.fr/mot/sabot
 abcès,ABCES,5,hard,3.09,https://www.motvalide.fr/mot/abces
@@ -1429,7 +1459,6 @@ grief,GRIEF,5,hard,3.08,https://www.motvalide.fr/mot/grief
 hosto,HOSTO,5,hard,3.08,https://www.motvalide.fr/mot/hosto
 jarre,JARRE,5,hard,3.08,https://www.motvalide.fr/mot/jarre
 kraft,KRAFT,5,hard,3.08,https://www.motvalide.fr/mot/kraft
-loser,LOSER,5,hard,3.08,https://www.motvalide.fr/mot/loser
 bâche,BACHE,5,hard,3.07,https://www.motvalide.fr/mot/bache
 béret,BERET,5,hard,3.07,https://www.motvalide.fr/mot/beret
 cèdre,CEDRE,5,hard,3.07,https://www.motvalide.fr/mot/cedre
@@ -1465,6 +1494,7 @@ lagon,LAGON,5,hard,3.04,https://www.motvalide.fr/mot/lagon
 meule,MEULE,5,hard,3.04,https://www.motvalide.fr/mot/meule
 odéon,ODEON,5,hard,3.04,https://www.motvalide.fr/mot/odeon
 plaid,PLAID,5,hard,3.04,https://www.motvalide.fr/mot/plaid
+plèbe,PLEBE,5,hard,3.04,https://www.motvalide.fr/mot/plebe
 rabbi,RABBI,5,hard,3.04,https://www.motvalide.fr/mot/rabbi
 bosco,BOSCO,5,hard,3.03,https://www.motvalide.fr/mot/bosco
 carry,CARRY,5,hard,3.03,https://www.motvalide.fr/mot/carry
@@ -1488,6 +1518,7 @@ lebel,LEBEL,5,hard,3.00,https://www.motvalide.fr/mot/lebel
 nonne,NONNE,5,hard,3.00,https://www.motvalide.fr/mot/nonne
 pâque,PAQUE,5,hard,3.00,https://www.motvalide.fr/mot/paque
 prout,PROUT,5,hard,3.00,https://www.motvalide.fr/mot/prout
+raton,RATON,5,hard,3.00,https://www.motvalide.fr/mot/raton
 contre,CONTRE,6,easy,5.93,https://www.motvalide.fr/mot/contre
 partie,PARTIE,6,easy,5.70,https://www.motvalide.fr/mot/partie
 moment,MOMENT,6,easy,5.66,https://www.motvalide.fr/mot/moment
@@ -1540,7 +1571,6 @@ valeur,VALEUR,6,easy,5.09,https://www.motvalide.fr/mot/valeur
 montre,MONTRE,6,easy,5.08,https://www.motvalide.fr/mot/montre
 réseau,RESEAU,6,easy,5.08,https://www.motvalide.fr/mot/reseau
 succès,SUCCES,6,easy,5.07,https://www.motvalide.fr/mot/succes
-putain,PUTAIN,6,easy,5.06,https://www.motvalide.fr/mot/putain
 chemin,CHEMIN,6,easy,5.05,https://www.motvalide.fr/mot/chemin
 espace,ESPACE,6,easy,5.05,https://www.motvalide.fr/mot/espace
 bureau,BUREAU,6,easy,5.04,https://www.motvalide.fr/mot/bureau
@@ -1598,6 +1628,7 @@ budget,BUDGET,6,easy,4.80,https://www.motvalide.fr/mot/budget
 dedans,DEDANS,6,easy,4.80,https://www.motvalide.fr/mot/dedans
 prince,PRINCE,6,easy,4.80,https://www.motvalide.fr/mot/prince
 bouche,BOUCHE,6,easy,4.79,https://www.motvalide.fr/mot/bouche
+gueule,GUEULE,6,easy,4.79,https://www.motvalide.fr/mot/gueule
 faveur,FAVEUR,6,easy,4.78,https://www.motvalide.fr/mot/faveur
 mérite,MERITE,6,easy,4.78,https://www.motvalide.fr/mot/merite
 papier,PAPIER,6,easy,4.78,https://www.motvalide.fr/mot/papier
@@ -1632,6 +1663,7 @@ thomas,THOMAS,6,easy,4.67,https://www.motvalide.fr/mot/thomas
 cancer,CANCER,6,easy,4.66,https://www.motvalide.fr/mot/cancer
 chasse,CHASSE,6,easy,4.66,https://www.motvalide.fr/mot/chasse
 impact,IMPACT,6,easy,4.66,https://www.motvalide.fr/mot/impact
+métier,METIER,6,easy,4.66,https://www.motvalide.fr/mot/metier
 bordel,BORDEL,6,easy,4.65,https://www.motvalide.fr/mot/bordel
 cadeau,CADEAU,6,easy,4.65,https://www.motvalide.fr/mot/cadeau
 colère,COLERE,6,easy,4.65,https://www.motvalide.fr/mot/colere
@@ -1678,8 +1710,10 @@ hausse,HAUSSE,6,easy,4.53,https://www.motvalide.fr/mot/hausse
 mairie,MAIRIE,6,easy,4.53,https://www.motvalide.fr/mot/mairie
 résumé,RESUME,6,easy,4.53,https://www.motvalide.fr/mot/resume
 cercle,CERCLE,6,easy,4.52,https://www.motvalide.fr/mot/cercle
+frappe,FRAPPE,6,easy,4.52,https://www.motvalide.fr/mot/frappe
 donnée,DONNEE,6,easy,4.51,https://www.motvalide.fr/mot/donnee
 format,FORMAT,6,easy,4.51,https://www.motvalide.fr/mot/format
+viande,VIANDE,6,easy,4.51,https://www.motvalide.fr/mot/viande
 christ,CHRIST,6,easy,4.50,https://www.motvalide.fr/mot/christ
 commis,COMMIS,6,easy,4.50,https://www.motvalide.fr/mot/commis
 joseph,JOSEPH,6,easy,4.50,https://www.motvalide.fr/mot/joseph
@@ -1691,6 +1725,7 @@ morale,MORALE,6,easy,4.48,https://www.motvalide.fr/mot/morale
 prénom,PRENOM,6,easy,4.48,https://www.motvalide.fr/mot/prenom
 vallée,VALLEE,6,easy,4.48,https://www.motvalide.fr/mot/vallee
 studio,STUDIO,6,easy,4.47,https://www.motvalide.fr/mot/studio
+trafic,TRAFIC,6,easy,4.47,https://www.motvalide.fr/mot/trafic
 venant,VENANT,6,easy,4.47,https://www.motvalide.fr/mot/venant
 billet,BILLET,6,easy,4.46,https://www.motvalide.fr/mot/billet
 drogue,DROGUE,6,easy,4.46,https://www.motvalide.fr/mot/drogue
@@ -1710,6 +1745,7 @@ témoin,TEMOIN,6,easy,4.43,https://www.motvalide.fr/mot/temoin
 ballon,BALLON,6,easy,4.42,https://www.motvalide.fr/mot/ballon
 caméra,CAMERA,6,easy,4.42,https://www.motvalide.fr/mot/camera
 temple,TEMPLE,6,easy,4.42,https://www.motvalide.fr/mot/temple
+manche,MANCHE,6,easy,4.41,https://www.motvalide.fr/mot/manche
 montée,MONTEE,6,easy,4.41,https://www.motvalide.fr/mot/montee
 navire,NAVIRE,6,easy,4.41,https://www.motvalide.fr/mot/navire
 rappel,RAPPEL,6,easy,4.41,https://www.motvalide.fr/mot/rappel
@@ -1745,6 +1781,7 @@ gloire,GLOIRE,6,easy,4.31,https://www.motvalide.fr/mot/gloire
 oiseau,OISEAU,6,easy,4.31,https://www.motvalide.fr/mot/oiseau
 prière,PRIERE,6,easy,4.31,https://www.motvalide.fr/mot/priere
 pseudo,PSEUDO,6,easy,4.31,https://www.motvalide.fr/mot/pseudo
+salope,SALOPE,6,easy,4.31,https://www.motvalide.fr/mot/salope
 signal,SIGNAL,6,easy,4.31,https://www.motvalide.fr/mot/signal
 boucle,BOUCLE,6,medium,4.29,https://www.motvalide.fr/mot/boucle
 flotte,FLOTTE,6,medium,4.29,https://www.motvalide.fr/mot/flotte
@@ -1820,8 +1857,10 @@ cahier,CAHIER,6,medium,4.07,https://www.motvalide.fr/mot/cahier
 cuivre,CUIVRE,6,medium,4.07,https://www.motvalide.fr/mot/cuivre
 notice,NOTICE,6,medium,4.07,https://www.motvalide.fr/mot/notice
 allure,ALLURE,6,medium,4.06,https://www.motvalide.fr/mot/allure
+casino,CASINO,6,medium,4.06,https://www.motvalide.fr/mot/casino
 faille,FAILLE,6,medium,4.06,https://www.motvalide.fr/mot/faille
 marbre,MARBRE,6,medium,4.06,https://www.motvalide.fr/mot/marbre
+panier,PANIER,6,medium,4.06,https://www.motvalide.fr/mot/panier
 anneau,ANNEAU,6,medium,4.05,https://www.motvalide.fr/mot/anneau
 diesel,DIESEL,6,medium,4.05,https://www.motvalide.fr/mot/diesel
 patrie,PATRIE,6,medium,4.05,https://www.motvalide.fr/mot/patrie
@@ -1895,6 +1934,7 @@ chèvre,CHEVRE,6,medium,3.88,https://www.motvalide.fr/mot/chevre
 module,MODULE,6,medium,3.88,https://www.motvalide.fr/mot/module
 battue,BATTUE,6,medium,3.87,https://www.motvalide.fr/mot/battue
 convoi,CONVOI,6,medium,3.87,https://www.motvalide.fr/mot/convoi
+débris,DEBRIS,6,medium,3.87,https://www.motvalide.fr/mot/debris
 levier,LEVIER,6,medium,3.87,https://www.motvalide.fr/mot/levier
 sylvie,SYLVIE,6,hard,3.87,https://www.motvalide.fr/mot/sylvie
 saveur,SAVEUR,6,medium,3.86,https://www.motvalide.fr/mot/saveur
@@ -1989,6 +2029,7 @@ buffet,BUFFET,6,medium,3.69,https://www.motvalide.fr/mot/buffet
 chalet,CHALET,6,medium,3.69,https://www.motvalide.fr/mot/chalet
 chevet,CHEVET,6,medium,3.69,https://www.motvalide.fr/mot/chevet
 chrome,CHROME,6,medium,3.69,https://www.motvalide.fr/mot/chrome
+graine,GRAINE,6,medium,3.69,https://www.motvalide.fr/mot/graine
 merlin,MERLIN,6,medium,3.69,https://www.motvalide.fr/mot/merlin
 agneau,AGNEAU,6,medium,3.68,https://www.motvalide.fr/mot/agneau
 artère,ARTERE,6,medium,3.68,https://www.motvalide.fr/mot/artere
@@ -2004,6 +2045,7 @@ pureté,PURETE,6,medium,3.68,https://www.motvalide.fr/mot/purete
 raisin,RAISIN,6,medium,3.68,https://www.motvalide.fr/mot/raisin
 tiroir,TIROIR,6,medium,3.68,https://www.motvalide.fr/mot/tiroir
 avatar,AVATAR,6,medium,3.67,https://www.motvalide.fr/mot/avatar
+boulet,BOULET,6,medium,3.67,https://www.motvalide.fr/mot/boulet
 percée,PERCEE,6,medium,3.67,https://www.motvalide.fr/mot/percee
 whisky,WHISKY,6,hard,3.67,https://www.motvalide.fr/mot/whisky
 chypre,CHYPRE,6,hard,3.66,https://www.motvalide.fr/mot/chypre
@@ -2056,6 +2098,7 @@ dégoût,DEGOUT,6,medium,3.59,https://www.motvalide.fr/mot/degout
 érable,ERABLE,6,medium,3.59,https://www.motvalide.fr/mot/erable
 ghetto,GHETTO,6,medium,3.59,https://www.motvalide.fr/mot/ghetto
 mentor,MENTOR,6,medium,3.59,https://www.motvalide.fr/mot/mentor
+oignon,OIGNON,6,medium,3.59,https://www.motvalide.fr/mot/oignon
 perche,PERCHE,6,medium,3.59,https://www.motvalide.fr/mot/perche
 amenée,AMENEE,6,medium,3.58,https://www.motvalide.fr/mot/amenee
 cognac,COGNAC,6,medium,3.58,https://www.motvalide.fr/mot/cognac
@@ -2078,6 +2121,7 @@ blabla,BLABLA,6,medium,3.56,https://www.motvalide.fr/mot/blabla
 chelem,CHELEM,6,medium,3.56,https://www.motvalide.fr/mot/chelem
 donjon,DONJON,6,hard,3.56,https://www.motvalide.fr/mot/donjon
 gâchis,GACHIS,6,medium,3.56,https://www.motvalide.fr/mot/gachis
+pédale,PEDALE,6,medium,3.56,https://www.motvalide.fr/mot/pedale
 puzzle,PUZZLE,6,hard,3.56,https://www.motvalide.fr/mot/puzzle
 verset,VERSET,6,medium,3.56,https://www.motvalide.fr/mot/verset
 frange,FRANGE,6,medium,3.55,https://www.motvalide.fr/mot/frange
@@ -2152,12 +2196,14 @@ soufre,SOUFRE,6,hard,3.47,https://www.motvalide.fr/mot/soufre
 vinyle,VINYLE,6,hard,3.47,https://www.motvalide.fr/mot/vinyle
 apôtre,APOTRE,6,hard,3.46,https://www.motvalide.fr/mot/apotre
 asthme,ASTHME,6,hard,3.46,https://www.motvalide.fr/mot/asthme
+crosse,CROSSE,6,hard,3.46,https://www.motvalide.fr/mot/crosse
 ethnie,ETHNIE,6,hard,3.46,https://www.motvalide.fr/mot/ethnie
 flacon,FLACON,6,hard,3.46,https://www.motvalide.fr/mot/flacon
 palmer,PALMER,6,hard,3.46,https://www.motvalide.fr/mot/palmer
 forage,FORAGE,6,hard,3.45,https://www.motvalide.fr/mot/forage
 messie,MESSIE,6,hard,3.45,https://www.motvalide.fr/mot/messie
 nudité,NUDITE,6,hard,3.45,https://www.motvalide.fr/mot/nudite
+ordure,ORDURE,6,hard,3.45,https://www.motvalide.fr/mot/ordure
 pignon,PIGNON,6,hard,3.45,https://www.motvalide.fr/mot/pignon
 rareté,RARETE,6,hard,3.45,https://www.motvalide.fr/mot/rarete
 sèvres,SEVRES,6,hard,3.45,https://www.motvalide.fr/mot/sevres
@@ -2168,6 +2214,7 @@ charia,CHARIA,6,hard,3.44,https://www.motvalide.fr/mot/charia
 cocher,COCHER,6,hard,3.44,https://www.motvalide.fr/mot/cocher
 cornet,CORNET,6,hard,3.44,https://www.motvalide.fr/mot/cornet
 faucon,FAUCON,6,hard,3.44,https://www.motvalide.fr/mot/faucon
+fumier,FUMIER,6,hard,3.44,https://www.motvalide.fr/mot/fumier
 margot,MARGOT,6,hard,3.44,https://www.motvalide.fr/mot/margot
 salive,SALIVE,6,hard,3.44,https://www.motvalide.fr/mot/salive
 synode,SYNODE,6,hard,3.44,https://www.motvalide.fr/mot/synode
@@ -2233,6 +2280,7 @@ thorax,THORAX,6,hard,3.38,https://www.motvalide.fr/mot/thorax
 verger,VERGER,6,hard,3.38,https://www.motvalide.fr/mot/verger
 viseur,VISEUR,6,hard,3.38,https://www.motvalide.fr/mot/viseur
 bambou,BAMBOU,6,hard,3.37,https://www.motvalide.fr/mot/bambou
+boudin,BOUDIN,6,hard,3.37,https://www.motvalide.fr/mot/boudin
 djihad,DJIHAD,6,hard,3.37,https://www.motvalide.fr/mot/djihad
 museau,MUSEAU,6,hard,3.37,https://www.motvalide.fr/mot/museau
 sachet,SACHET,6,hard,3.37,https://www.motvalide.fr/mot/sachet
@@ -2274,11 +2322,13 @@ dictée,DICTEE,6,hard,3.33,https://www.motvalide.fr/mot/dictee
 driver,DRIVER,6,hard,3.33,https://www.motvalide.fr/mot/driver
 évêché,EVECHE,6,hard,3.33,https://www.motvalide.fr/mot/eveche
 génome,GENOME,6,hard,3.33,https://www.motvalide.fr/mot/genome
+jument,JUMENT,6,hard,3.33,https://www.motvalide.fr/mot/jument
 reggae,REGGAE,6,hard,3.33,https://www.motvalide.fr/mot/reggae
 roller,ROLLER,6,hard,3.33,https://www.motvalide.fr/mot/roller
 vessie,VESSIE,6,hard,3.33,https://www.motvalide.fr/mot/vessie
 cantal,CANTAL,6,hard,3.32,https://www.motvalide.fr/mot/cantal
 cavale,CAVALE,6,hard,3.32,https://www.motvalide.fr/mot/cavale
+crasse,CRASSE,6,hard,3.32,https://www.motvalide.fr/mot/crasse
 fortin,FORTIN,6,hard,3.32,https://www.motvalide.fr/mot/fortin
 hélice,HELICE,6,hard,3.32,https://www.motvalide.fr/mot/helice
 labeur,LABEUR,6,hard,3.32,https://www.motvalide.fr/mot/labeur
@@ -2289,6 +2339,7 @@ nageur,NAGEUR,6,hard,3.32,https://www.motvalide.fr/mot/nageur
 nausée,NAUSEE,6,hard,3.32,https://www.motvalide.fr/mot/nausee
 noyade,NOYADE,6,hard,3.32,https://www.motvalide.fr/mot/noyade
 onglet,ONGLET,6,hard,3.32,https://www.motvalide.fr/mot/onglet
+patois,PATOIS,6,hard,3.32,https://www.motvalide.fr/mot/patois
 pioche,PIOCHE,6,hard,3.32,https://www.motvalide.fr/mot/pioche
 potion,POTION,6,hard,3.32,https://www.motvalide.fr/mot/potion
 verrou,VERROU,6,hard,3.32,https://www.motvalide.fr/mot/verrou
@@ -2296,6 +2347,7 @@ castel,CASTEL,6,hard,3.31,https://www.motvalide.fr/mot/castel
 déclic,DECLIC,6,hard,3.31,https://www.motvalide.fr/mot/declic
 extase,EXTASE,6,hard,3.31,https://www.motvalide.fr/mot/extase
 homard,HOMARD,6,hard,3.31,https://www.motvalide.fr/mot/homard
+négoce,NEGOCE,6,hard,3.31,https://www.motvalide.fr/mot/negoce
 webcam,WEBCAM,6,hard,3.31,https://www.motvalide.fr/mot/webcam
 bandit,BANDIT,6,hard,3.30,https://www.motvalide.fr/mot/bandit
 bobine,BOBINE,6,hard,3.30,https://www.motvalide.fr/mot/bobine
@@ -2396,6 +2448,7 @@ amadou,AMADOU,6,hard,3.17,https://www.motvalide.fr/mot/amadou
 armada,ARMADA,6,hard,3.17,https://www.motvalide.fr/mot/armada
 escape,ESCAPE,6,hard,3.17,https://www.motvalide.fr/mot/escape
 odorat,ODORAT,6,hard,3.17,https://www.motvalide.fr/mot/odorat
+voyeur,VOYEUR,6,hard,3.17,https://www.motvalide.fr/mot/voyeur
 bailli,BAILLI,6,hard,3.16,https://www.motvalide.fr/mot/bailli
 cassis,CASSIS,6,hard,3.16,https://www.motvalide.fr/mot/cassis
 caveau,CAVEAU,6,hard,3.16,https://www.motvalide.fr/mot/caveau
@@ -2455,6 +2508,7 @@ radeau,RADEAU,6,hard,3.11,https://www.motvalide.fr/mot/radeau
 reflux,REFLUX,6,hard,3.11,https://www.motvalide.fr/mot/reflux
 résidu,RESIDU,6,hard,3.11,https://www.motvalide.fr/mot/residu
 tisane,TISANE,6,hard,3.11,https://www.motvalide.fr/mot/tisane
+aumône,AUMONE,6,hard,3.10,https://www.motvalide.fr/mot/aumone
 bocage,BOCAGE,6,hard,3.10,https://www.motvalide.fr/mot/bocage
 cécité,CECITE,6,hard,3.10,https://www.motvalide.fr/mot/cecite
 crible,CRIBLE,6,hard,3.10,https://www.motvalide.fr/mot/crible
@@ -2470,6 +2524,7 @@ daphné,DAPHNE,6,hard,3.08,https://www.motvalide.fr/mot/daphne
 lolita,LOLITA,6,hard,3.08,https://www.motvalide.fr/mot/lolita
 massue,MASSUE,6,hard,3.08,https://www.motvalide.fr/mot/massue
 quinte,QUINTE,6,hard,3.08,https://www.motvalide.fr/mot/quinte
+touffe,TOUFFE,6,hard,3.08,https://www.motvalide.fr/mot/touffe
 ulcère,ULCERE,6,hard,3.08,https://www.motvalide.fr/mot/ulcere
 averse,AVERSE,6,hard,3.07,https://www.motvalide.fr/mot/averse
 bistro,BISTRO,6,hard,3.07,https://www.motvalide.fr/mot/bistro
@@ -2515,6 +2570,7 @@ rocade,ROCADE,6,hard,3.04,https://www.motvalide.fr/mot/rocade
 rouvre,ROUVRE,6,hard,3.04,https://www.motvalide.fr/mot/rouvre
 scribe,SCRIBE,6,hard,3.04,https://www.motvalide.fr/mot/scribe
 tympan,TYMPAN,6,hard,3.04,https://www.motvalide.fr/mot/tympan
+vipère,VIPERE,6,hard,3.04,https://www.motvalide.fr/mot/vipere
 carcan,CARCAN,6,hard,3.03,https://www.motvalide.fr/mot/carcan
 cobaye,COBAYE,6,hard,3.03,https://www.motvalide.fr/mot/cobaye
 corset,CORSET,6,hard,3.03,https://www.motvalide.fr/mot/corset
@@ -2646,6 +2702,7 @@ surface,SURFACE,7,easy,4.81,https://www.motvalide.fr/mot/surface
 victime,VICTIME,7,easy,4.81,https://www.motvalide.fr/mot/victime
 bonheur,BONHEUR,7,easy,4.80,https://www.motvalide.fr/mot/bonheur
 dessous,DESSOUS,7,easy,4.79,https://www.motvalide.fr/mot/dessous
+hauteur,HAUTEUR,7,easy,4.79,https://www.motvalide.fr/mot/hauteur
 courage,COURAGE,7,easy,4.77,https://www.motvalide.fr/mot/courage
 partage,PARTAGE,7,easy,4.76,https://www.motvalide.fr/mot/partage
 cuisine,CUISINE,7,easy,4.75,https://www.motvalide.fr/mot/cuisine
@@ -2958,6 +3015,7 @@ tombeau,TOMBEAU,7,medium,3.80,https://www.motvalide.fr/mot/tombeau
 bouchon,BOUCHON,7,medium,3.79,https://www.motvalide.fr/mot/bouchon
 concile,CONCILE,7,medium,3.79,https://www.motvalide.fr/mot/concile
 coupure,COUPURE,7,medium,3.79,https://www.motvalide.fr/mot/coupure
+équipée,EQUIPEE,7,hard,3.79,https://www.motvalide.fr/mot/equipee
 penalty,PENALTY,7,hard,3.79,https://www.motvalide.fr/mot/penalty
 pénurie,PENURIE,7,medium,3.79,https://www.motvalide.fr/mot/penurie
 poignet,POIGNET,7,medium,3.79,https://www.motvalide.fr/mot/poignet
@@ -2987,6 +3045,7 @@ loyauté,LOYAUTE,7,hard,3.74,https://www.motvalide.fr/mot/loyaute
 matrice,MATRICE,7,medium,3.74,https://www.motvalide.fr/mot/matrice
 western,WESTERN,7,hard,3.74,https://www.motvalide.fr/mot/western
 artisan,ARTISAN,7,medium,3.73,https://www.motvalide.fr/mot/artisan
+baleine,BALEINE,7,medium,3.73,https://www.motvalide.fr/mot/baleine
 cantine,CANTINE,7,medium,3.73,https://www.motvalide.fr/mot/cantine
 ramadan,RAMADAN,7,medium,3.73,https://www.motvalide.fr/mot/ramadan
 bouquin,BOUQUIN,7,hard,3.72,https://www.motvalide.fr/mot/bouquin
@@ -3070,6 +3129,7 @@ brabant,BRABANT,7,medium,3.60,https://www.motvalide.fr/mot/brabant
 cabaret,CABARET,7,medium,3.60,https://www.motvalide.fr/mot/cabaret
 dilemme,DILEMME,7,medium,3.60,https://www.motvalide.fr/mot/dilemme
 texture,TEXTURE,7,hard,3.60,https://www.motvalide.fr/mot/texture
+ancêtre,ANCETRE,7,medium,3.59,https://www.motvalide.fr/mot/ancetre
 calcium,CALCIUM,7,medium,3.59,https://www.motvalide.fr/mot/calcium
 danseur,DANSEUR,7,medium,3.59,https://www.motvalide.fr/mot/danseur
 déprime,DEPRIME,7,medium,3.59,https://www.motvalide.fr/mot/deprime
@@ -3101,7 +3161,6 @@ violeur,VIOLEUR,7,medium,3.57,https://www.motvalide.fr/mot/violeur
 ballade,BALLADE,7,medium,3.56,https://www.motvalide.fr/mot/ballade
 bascule,BASCULE,7,medium,3.56,https://www.motvalide.fr/mot/bascule
 cadence,CADENCE,7,medium,3.56,https://www.motvalide.fr/mot/cadence
-couille,COUILLE,7,medium,3.56,https://www.motvalide.fr/mot/couille
 feeling,FEELING,7,medium,3.56,https://www.motvalide.fr/mot/feeling
 foulard,FOULARD,7,medium,3.56,https://www.motvalide.fr/mot/foulard
 ivresse,IVRESSE,7,medium,3.56,https://www.motvalide.fr/mot/ivresse
@@ -3179,6 +3238,7 @@ berline,BERLINE,7,hard,3.47,https://www.motvalide.fr/mot/berline
 carence,CARENCE,7,hard,3.47,https://www.motvalide.fr/mot/carence
 effigie,EFFIGIE,7,hard,3.47,https://www.motvalide.fr/mot/effigie
 pillage,PILLAGE,7,hard,3.47,https://www.motvalide.fr/mot/pillage
+prodige,PRODIGE,7,hard,3.47,https://www.motvalide.fr/mot/prodige
 riposte,RIPOSTE,7,hard,3.47,https://www.motvalide.fr/mot/riposte
 tripoli,TRIPOLI,7,hard,3.47,https://www.motvalide.fr/mot/tripoli
 bouchée,BOUCHEE,7,hard,3.46,https://www.motvalide.fr/mot/bouchee
@@ -3243,6 +3303,7 @@ sifflet,SIFFLET,7,hard,3.39,https://www.motvalide.fr/mot/sifflet
 sodomie,SODOMIE,7,hard,3.39,https://www.motvalide.fr/mot/sodomie
 cyclone,CYCLONE,7,hard,3.38,https://www.motvalide.fr/mot/cyclone
 frisson,FRISSON,7,hard,3.38,https://www.motvalide.fr/mot/frisson
+jésuite,JESUITE,7,hard,3.38,https://www.motvalide.fr/mot/jesuite
 prélude,PRELUDE,7,hard,3.38,https://www.motvalide.fr/mot/prelude
 réglage,REGLAGE,7,hard,3.38,https://www.motvalide.fr/mot/reglage
 sursaut,SURSAUT,7,hard,3.38,https://www.motvalide.fr/mot/sursaut
@@ -3383,6 +3444,7 @@ turbine,TURBINE,7,hard,3.24,https://www.motvalide.fr/mot/turbine
 califat,CALIFAT,7,hard,3.23,https://www.motvalide.fr/mot/califat
 chiffon,CHIFFON,7,hard,3.23,https://www.motvalide.fr/mot/chiffon
 citerne,CITERNE,7,hard,3.23,https://www.motvalide.fr/mot/citerne
+crapaud,CRAPAUD,7,hard,3.23,https://www.motvalide.fr/mot/crapaud
 encours,ENCOURS,7,hard,3.23,https://www.motvalide.fr/mot/encours
 mascara,MASCARA,7,hard,3.23,https://www.motvalide.fr/mot/mascara
 probité,PROBITE,7,hard,3.23,https://www.motvalide.fr/mot/probite
@@ -3439,11 +3501,11 @@ hamster,HAMSTER,7,hard,3.17,https://www.motvalide.fr/mot/hamster
 implant,IMPLANT,7,hard,3.17,https://www.motvalide.fr/mot/implant
 lavande,LAVANDE,7,hard,3.17,https://www.motvalide.fr/mot/lavande
 minceur,MINCEUR,7,hard,3.17,https://www.motvalide.fr/mot/minceur
-pétasse,PETASSE,7,hard,3.17,https://www.motvalide.fr/mot/petasse
 playboy,PLAYBOY,7,hard,3.17,https://www.motvalide.fr/mot/playboy
 pompage,POMPAGE,7,hard,3.17,https://www.motvalide.fr/mot/pompage
 récital,RECITAL,7,hard,3.17,https://www.motvalide.fr/mot/recital
 tartine,TARTINE,7,hard,3.17,https://www.motvalide.fr/mot/tartine
+bouvier,BOUVIER,7,hard,3.16,https://www.motvalide.fr/mot/bouvier
 curseur,CURSEUR,7,hard,3.16,https://www.motvalide.fr/mot/curseur
 estrade,ESTRADE,7,hard,3.16,https://www.motvalide.fr/mot/estrade
 gazelle,GAZELLE,7,hard,3.16,https://www.motvalide.fr/mot/gazelle
@@ -3452,6 +3514,7 @@ harnais,HARNAIS,7,hard,3.16,https://www.motvalide.fr/mot/harnais
 pulsion,PULSION,7,hard,3.16,https://www.motvalide.fr/mot/pulsion
 chimère,CHIMERE,7,hard,3.15,https://www.motvalide.fr/mot/chimere
 compost,COMPOST,7,hard,3.15,https://www.motvalide.fr/mot/compost
+enflure,ENFLURE,7,hard,3.15,https://www.motvalide.fr/mot/enflure
 gobelet,GOBELET,7,hard,3.15,https://www.motvalide.fr/mot/gobelet
 louange,LOUANGE,7,hard,3.15,https://www.motvalide.fr/mot/louange
 pontife,PONTIFE,7,hard,3.15,https://www.motvalide.fr/mot/pontife
@@ -3472,6 +3535,7 @@ façonné,FACONNE,7,hard,3.13,https://www.motvalide.fr/mot/faconne
 haricot,HARICOT,7,hard,3.13,https://www.motvalide.fr/mot/haricot
 package,PACKAGE,7,hard,3.13,https://www.motvalide.fr/mot/package
 pourvoi,POURVOI,7,hard,3.13,https://www.motvalide.fr/mot/pourvoi
+tapette,TAPETTE,7,hard,3.13,https://www.motvalide.fr/mot/tapette
 vermine,VERMINE,7,hard,3.13,https://www.motvalide.fr/mot/vermine
 chevron,CHEVRON,7,hard,3.12,https://www.motvalide.fr/mot/chevron
 disette,DISETTE,7,hard,3.12,https://www.motvalide.fr/mot/disette
@@ -3554,7 +3618,6 @@ aéronef,AERONEF,7,hard,3.04,https://www.motvalide.fr/mot/aeronef
 avidité,AVIDITE,7,hard,3.04,https://www.motvalide.fr/mot/avidite
 braille,BRAILLE,7,hard,3.04,https://www.motvalide.fr/mot/braille
 crétacé,CRETACE,7,hard,3.04,https://www.motvalide.fr/mot/cretace
-dégaine,DEGAINE,7,hard,3.04,https://www.motvalide.fr/mot/degaine
 ellipse,ELLIPSE,7,hard,3.04,https://www.motvalide.fr/mot/ellipse
 karting,KARTING,7,hard,3.04,https://www.motvalide.fr/mot/karting
 oléoduc,OLEODUC,7,hard,3.04,https://www.motvalide.fr/mot/oleoduc
@@ -3628,6 +3691,7 @@ fonction,FONCTION,8,medium,5.06,https://www.motvalide.fr/mot/fonction
 présence,PRESENCE,8,medium,5.05,https://www.motvalide.fr/mot/presence
 dimanche,DIMANCHE,8,medium,5.03,https://www.motvalide.fr/mot/dimanche
 victoire,VICTOIRE,8,medium,5.02,https://www.motvalide.fr/mot/victoire
+monsieur,MONSIEUR,8,medium,5.01,https://www.motvalide.fr/mot/monsieur
 résultat,RESULTAT,8,medium,5.00,https://www.motvalide.fr/mot/resultat
 décision,DECISION,8,medium,4.97,https://www.motvalide.fr/mot/decision
 majorité,MAJORITE,8,medium,4.97,https://www.motvalide.fr/mot/majorite
@@ -3649,6 +3713,7 @@ habitude,HABITUDE,8,medium,4.83,https://www.motvalide.fr/mot/habitude
 tendance,TENDANCE,8,medium,4.82,https://www.motvalide.fr/mot/tendance
 élection,ELECTION,8,medium,4.81,https://www.motvalide.fr/mot/election
 hollande,HOLLANDE,8,medium,4.80,https://www.motvalide.fr/mot/hollande
+province,PROVINCE,8,medium,4.80,https://www.motvalide.fr/mot/province
 retraite,RETRAITE,8,medium,4.80,https://www.motvalide.fr/mot/retraite
 surprise,SURPRISE,8,medium,4.80,https://www.motvalide.fr/mot/surprise
 capacité,CAPACITE,8,medium,4.79,https://www.motvalide.fr/mot/capacite
@@ -3730,6 +3795,7 @@ applique,APPLIQUE,8,medium,4.38,https://www.motvalide.fr/mot/applique
 maintien,MAINTIEN,8,medium,4.38,https://www.motvalide.fr/mot/maintien
 maîtrise,MAITRISE,8,medium,4.38,https://www.motvalide.fr/mot/maitrise
 syndicat,SYNDICAT,8,medium,4.38,https://www.motvalide.fr/mot/syndicat
+boutique,BOUTIQUE,8,medium,4.36,https://www.motvalide.fr/mot/boutique
 courrier,COURRIER,8,medium,4.36,https://www.motvalide.fr/mot/courrier
 attentat,ATTENTAT,8,medium,4.35,https://www.motvalide.fr/mot/attentat
 comporte,COMPORTE,8,medium,4.35,https://www.motvalide.fr/mot/comporte
@@ -3770,6 +3836,7 @@ prétexte,PRETEXTE,8,medium,4.25,https://www.motvalide.fr/mot/pretexte
 traverse,TRAVERSE,8,medium,4.24,https://www.motvalide.fr/mot/traverse
 ambition,AMBITION,8,medium,4.23,https://www.motvalide.fr/mot/ambition
 diamètre,DIAMETRE,8,medium,4.23,https://www.motvalide.fr/mot/diametre
+habitant,HABITANT,8,medium,4.23,https://www.motvalide.fr/mot/habitant
 vocation,VOCATION,8,medium,4.23,https://www.motvalide.fr/mot/vocation
 conserve,CONSERVE,8,medium,4.21,https://www.motvalide.fr/mot/conserve
 escalier,ESCALIER,8,medium,4.21,https://www.motvalide.fr/mot/escalier
@@ -3911,6 +3978,7 @@ pistolet,PISTOLET,8,medium,3.86,https://www.motvalide.fr/mot/pistolet
 punition,PUNITION,8,medium,3.86,https://www.motvalide.fr/mot/punition
 tatouage,TATOUAGE,8,medium,3.86,https://www.motvalide.fr/mot/tatouage
 cheminée,CHEMINEE,8,medium,3.85,https://www.motvalide.fr/mot/cheminee
+fixation,FIXATION,8,hard,3.85,https://www.motvalide.fr/mot/fixation
 fracture,FRACTURE,8,medium,3.85,https://www.motvalide.fr/mot/fracture
 natation,NATATION,8,medium,3.85,https://www.motvalide.fr/mot/natation
 sandwich,SANDWICH,8,hard,3.85,https://www.motvalide.fr/mot/sandwich
@@ -3968,6 +4036,7 @@ ruisseau,RUISSEAU,8,medium,3.73,https://www.motvalide.fr/mot/ruisseau
 anonymat,ANONYMAT,8,hard,3.72,https://www.motvalide.fr/mot/anonymat
 figurant,FIGURANT,8,medium,3.72,https://www.motvalide.fr/mot/figurant
 autopsie,AUTOPSIE,8,medium,3.71,https://www.motvalide.fr/mot/autopsie
+calvaire,CALVAIRE,8,medium,3.71,https://www.motvalide.fr/mot/calvaire
 chargeur,CHARGEUR,8,medium,3.71,https://www.motvalide.fr/mot/chargeur
 cuillère,CUILLERE,8,medium,3.71,https://www.motvalide.fr/mot/cuillere
 écoutant,ECOUTANT,8,medium,3.71,https://www.motvalide.fr/mot/ecoutant
@@ -4009,7 +4078,6 @@ pochette,POCHETTE,8,medium,3.67,https://www.motvalide.fr/mot/pochette
 variante,VARIANTE,8,medium,3.67,https://www.motvalide.fr/mot/variante
 alphabet,ALPHABET,8,medium,3.66,https://www.motvalide.fr/mot/alphabet
 anomalie,ANOMALIE,8,medium,3.66,https://www.motvalide.fr/mot/anomalie
-barbarie,BARBARIE,8,medium,3.66,https://www.motvalide.fr/mot/barbarie
 cercueil,CERCUEIL,8,medium,3.66,https://www.motvalide.fr/mot/cercueil
 croisade,CROISADE,8,medium,3.66,https://www.motvalide.fr/mot/croisade
 mâchoire,MACHOIRE,8,medium,3.66,https://www.motvalide.fr/mot/machoire
@@ -4256,6 +4324,7 @@ matraque,MATRAQUE,8,hard,3.31,https://www.motvalide.fr/mot/matraque
 parterre,PARTERRE,8,hard,3.31,https://www.motvalide.fr/mot/parterre
 plongeon,PLONGEON,8,hard,3.31,https://www.motvalide.fr/mot/plongeon
 prothèse,PROTHESE,8,hard,3.31,https://www.motvalide.fr/mot/prothese
+carcasse,CARCASSE,8,hard,3.30,https://www.motvalide.fr/mot/carcasse
 chenille,CHENILLE,8,hard,3.30,https://www.motvalide.fr/mot/chenille
 concerto,CONCERTO,8,hard,3.30,https://www.motvalide.fr/mot/concerto
 datation,DATATION,8,hard,3.30,https://www.motvalide.fr/mot/datation
@@ -4281,6 +4350,7 @@ discorde,DISCORDE,8,hard,3.28,https://www.motvalide.fr/mot/discorde
 escargot,ESCARGOT,8,hard,3.28,https://www.motvalide.fr/mot/escargot
 euphorie,EUPHORIE,8,hard,3.28,https://www.motvalide.fr/mot/euphorie
 filature,FILATURE,8,hard,3.28,https://www.motvalide.fr/mot/filature
+paquebot,PAQUEBOT,8,hard,3.28,https://www.motvalide.fr/mot/paquebot
 scrupule,SCRUPULE,8,hard,3.28,https://www.motvalide.fr/mot/scrupule
 aversion,AVERSION,8,hard,3.27,https://www.motvalide.fr/mot/aversion
 blanchet,BLANCHET,8,hard,3.27,https://www.motvalide.fr/mot/blanchet
@@ -4354,6 +4424,7 @@ pingouin,PINGOUIN,8,hard,3.20,https://www.motvalide.fr/mot/pingouin
 téléfilm,TELEFILM,8,hard,3.20,https://www.motvalide.fr/mot/telefilm
 archiduc,ARCHIDUC,8,hard,3.19,https://www.motvalide.fr/mot/archiduc
 asphyxie,ASPHYXIE,8,hard,3.19,https://www.motvalide.fr/mot/asphyxie
+clochard,CLOCHARD,8,hard,3.19,https://www.motvalide.fr/mot/clochard
 houlette,HOULETTE,8,hard,3.19,https://www.motvalide.fr/mot/houlette
 malherbe,MALHERBE,8,hard,3.19,https://www.motvalide.fr/mot/malherbe
 narcisse,NARCISSE,8,hard,3.19,https://www.motvalide.fr/mot/narcisse
@@ -4429,6 +4500,7 @@ lynchage,LYNCHAGE,8,hard,3.11,https://www.motvalide.fr/mot/lynchage
 mallette,MALLETTE,8,hard,3.11,https://www.motvalide.fr/mot/mallette
 mendiant,MENDIANT,8,hard,3.11,https://www.motvalide.fr/mot/mendiant
 nounours,NOUNOURS,8,hard,3.11,https://www.motvalide.fr/mot/nounours
+officine,OFFICINE,8,hard,3.11,https://www.motvalide.fr/mot/officine
 pastèque,PASTEQUE,8,hard,3.11,https://www.motvalide.fr/mot/pasteque
 resserre,RESSERRE,8,hard,3.11,https://www.motvalide.fr/mot/resserre
 sénéchal,SENECHAL,8,hard,3.11,https://www.motvalide.fr/mot/senechal
@@ -4451,6 +4523,7 @@ cotation,COTATION,8,hard,3.09,https://www.motvalide.fr/mot/cotation
 lectorat,LECTORAT,8,hard,3.09,https://www.motvalide.fr/mot/lectorat
 nantaise,NANTAISE,8,hard,3.09,https://www.motvalide.fr/mot/nantaise
 pointure,POINTURE,8,hard,3.09,https://www.motvalide.fr/mot/pointure
+brasseur,BRASSEUR,8,hard,3.08,https://www.motvalide.fr/mot/brasseur
 carrosse,CARROSSE,8,hard,3.08,https://www.motvalide.fr/mot/carrosse
 crinière,CRINIERE,8,hard,3.08,https://www.motvalide.fr/mot/criniere
 gélatine,GELATINE,8,hard,3.08,https://www.motvalide.fr/mot/gelatine
@@ -4706,6 +4779,7 @@ antiquité,ANTIQUITE,9,medium,4.04,https://www.motvalide.fr/mot/antiquite
 consensus,CONSENSUS,9,medium,4.04,https://www.motvalide.fr/mot/consensus
 détriment,DETRIMENT,9,medium,4.04,https://www.motvalide.fr/mot/detriment
 exclusion,EXCLUSION,9,medium,4.04,https://www.motvalide.fr/mot/exclusion
+fiscalité,FISCALITE,9,medium,4.04,https://www.motvalide.fr/mot/fiscalite
 nouveauté,NOUVEAUTE,9,medium,4.04,https://www.motvalide.fr/mot/nouveaute
 affection,AFFECTION,9,medium,4.03,https://www.motvalide.fr/mot/affection
 épaisseur,EPAISSEUR,9,medium,4.03,https://www.motvalide.fr/mot/epaisseur
@@ -4746,6 +4820,7 @@ nettoyage,NETTOYAGE,9,hard,3.96,https://www.motvalide.fr/mot/nettoyage
 unanimité,UNANIMITE,9,medium,3.96,https://www.motvalide.fr/mot/unanimite
 ascension,ASCENSION,9,medium,3.95,https://www.motvalide.fr/mot/ascension
 impulsion,IMPULSION,9,medium,3.95,https://www.motvalide.fr/mot/impulsion
+multitude,MULTITUDE,9,medium,3.95,https://www.motvalide.fr/mot/multitude
 cavalerie,CAVALERIE,9,medium,3.94,https://www.motvalide.fr/mot/cavalerie
 impériale,IMPERIALE,9,medium,3.94,https://www.motvalide.fr/mot/imperiale
 injection,INJECTION,9,hard,3.94,https://www.motvalide.fr/mot/injection
@@ -4838,6 +4913,7 @@ véronique,VERONIQUE,9,hard,3.75,https://www.motvalide.fr/mot/veronique
 artisanat,ARTISANAT,9,medium,3.74,https://www.motvalide.fr/mot/artisanat
 serviteur,SERVITEUR,9,medium,3.74,https://www.motvalide.fr/mot/serviteur
 boulanger,BOULANGER,9,medium,3.73,https://www.motvalide.fr/mot/boulanger
+chaudière,CHAUDIERE,9,medium,3.73,https://www.motvalide.fr/mot/chaudiere
 dictateur,DICTATEUR,9,medium,3.73,https://www.motvalide.fr/mot/dictateur
 métaphore,METAPHORE,9,medium,3.73,https://www.motvalide.fr/mot/metaphore
 verticale,VERTICALE,9,medium,3.73,https://www.motvalide.fr/mot/verticale
@@ -4928,6 +5004,7 @@ réconfort,RECONFORT,9,medium,3.52,https://www.motvalide.fr/mot/reconfort
 repêchage,REPECHAGE,9,medium,3.52,https://www.motvalide.fr/mot/repechage
 résonance,RESONANCE,9,medium,3.52,https://www.motvalide.fr/mot/resonance
 armistice,ARMISTICE,9,medium,3.51,https://www.motvalide.fr/mot/armistice
+casserole,CASSEROLE,9,medium,3.51,https://www.motvalide.fr/mot/casserole
 chevelure,CHEVELURE,9,medium,3.51,https://www.motvalide.fr/mot/chevelure
 déchéance,DECHEANCE,9,medium,3.51,https://www.motvalide.fr/mot/decheance
 déduction,DEDUCTION,9,medium,3.51,https://www.motvalide.fr/mot/deduction
@@ -5099,7 +5176,6 @@ adhérence,ADHERENCE,9,hard,3.26,https://www.motvalide.fr/mot/adherence
 contagion,CONTAGION,9,hard,3.26,https://www.motvalide.fr/mot/contagion
 déchirure,DECHIRURE,9,hard,3.26,https://www.motvalide.fr/mot/dechirure
 imposteur,IMPOSTEUR,9,hard,3.26,https://www.motvalide.fr/mot/imposteur
-paperasse,PAPERASSE,9,hard,3.26,https://www.motvalide.fr/mot/paperasse
 proviseur,PROVISEUR,9,hard,3.26,https://www.motvalide.fr/mot/proviseur
 serrurier,SERRURIER,9,hard,3.26,https://www.motvalide.fr/mot/serrurier
 accordéon,ACCORDEON,9,hard,3.25,https://www.motvalide.fr/mot/accordeon
@@ -5211,6 +5287,7 @@ ergonomie,ERGONOMIE,9,hard,3.13,https://www.motvalide.fr/mot/ergonomie
 glossaire,GLOSSAIRE,9,hard,3.13,https://www.motvalide.fr/mot/glossaire
 horoscope,HOROSCOPE,9,hard,3.13,https://www.motvalide.fr/mot/horoscope
 plutonium,PLUTONIUM,9,hard,3.13,https://www.motvalide.fr/mot/plutonium
+brochette,BROCHETTE,9,hard,3.12,https://www.motvalide.fr/mot/brochette
 carrelage,CARRELAGE,9,hard,3.12,https://www.motvalide.fr/mot/carrelage
 cassandre,CASSANDRE,9,hard,3.12,https://www.motvalide.fr/mot/cassandre
 christmas,CHRISTMAS,9,hard,3.12,https://www.motvalide.fr/mot/christmas
@@ -5247,6 +5324,7 @@ roquefort,ROQUEFORT,9,hard,3.08,https://www.motvalide.fr/mot/roquefort
 triptyque,TRIPTYQUE,9,hard,3.08,https://www.motvalide.fr/mot/triptyque
 cafetière,CAFETIERE,9,hard,3.07,https://www.motvalide.fr/mot/cafetiere
 débardeur,DEBARDEUR,9,hard,3.07,https://www.motvalide.fr/mot/debardeur
+exécutant,EXECUTANT,9,hard,3.07,https://www.motvalide.fr/mot/executant
 idéalisme,IDEALISME,9,hard,3.07,https://www.motvalide.fr/mot/idealisme
 inutilité,INUTILITE,9,hard,3.07,https://www.motvalide.fr/mot/inutilite
 nervosité,NERVOSITE,9,hard,3.07,https://www.motvalide.fr/mot/nervosite
@@ -5326,6 +5404,7 @@ révolution,REVOLUTION,10,medium,4.82,https://www.motvalide.fr/mot/revolution
 secrétaire,SECRETAIRE,10,medium,4.80,https://www.motvalide.fr/mot/secretaire
 opposition,OPPOSITION,10,medium,4.79,https://www.motvalide.fr/mot/opposition
 conférence,CONFERENCE,10,medium,4.75,https://www.motvalide.fr/mot/conference
+personnage,PERSONNAGE,10,medium,4.75,https://www.motvalide.fr/mot/personnage
 collection,COLLECTION,10,medium,4.74,https://www.motvalide.fr/mot/collection
 conscience,CONSCIENCE,10,medium,4.74,https://www.motvalide.fr/mot/conscience
 croissance,CROISSANCE,10,medium,4.74,https://www.motvalide.fr/mot/croissance
@@ -5608,6 +5687,7 @@ gaspillage,GASPILLAGE,10,medium,3.55,https://www.motvalide.fr/mot/gaspillage
 champignon,CHAMPIGNON,10,medium,3.54,https://www.motvalide.fr/mot/champignon
 crépuscule,CREPUSCULE,10,medium,3.54,https://www.motvalide.fr/mot/crepuscule
 dévouement,DEVOUEMENT,10,medium,3.54,https://www.motvalide.fr/mot/devouement
+inondation,INONDATION,10,medium,3.54,https://www.motvalide.fr/mot/inondation
 régression,REGRESSION,10,medium,3.54,https://www.motvalide.fr/mot/regression
 généralité,GENERALITE,10,medium,3.53,https://www.motvalide.fr/mot/generalite
 infirmerie,INFIRMERIE,10,medium,3.53,https://www.motvalide.fr/mot/infirmerie
@@ -5678,6 +5758,7 @@ prédiction,PREDICTION,10,hard,3.39,https://www.motvalide.fr/mot/prediction
 rhinocéros,RHINOCEROS,10,hard,3.39,https://www.motvalide.fr/mot/rhinoceros
 apaisement,APAISEMENT,10,hard,3.38,https://www.motvalide.fr/mot/apaisement
 commandeur,COMMANDEUR,10,hard,3.38,https://www.motvalide.fr/mot/commandeur
+pourriture,POURRITURE,10,hard,3.38,https://www.motvalide.fr/mot/pourriture
 prospectus,PROSPECTUS,10,hard,3.38,https://www.motvalide.fr/mot/prospectus
 réélection,REELECTION,10,hard,3.38,https://www.motvalide.fr/mot/reelection
 cendrillon,CENDRILLON,10,hard,3.37,https://www.motvalide.fr/mot/cendrillon
@@ -5722,6 +5803,7 @@ nourrisson,NOURRISSON,10,hard,3.30,https://www.motvalide.fr/mot/nourrisson
 récréation,RECREATION,10,hard,3.30,https://www.motvalide.fr/mot/recreation
 théologien,THEOLOGIEN,10,hard,3.30,https://www.motvalide.fr/mot/theologien
 adéquation,ADEQUATION,10,hard,3.29,https://www.motvalide.fr/mot/adequation
+catéchisme,CATECHISME,10,hard,3.29,https://www.motvalide.fr/mot/catechisme
 ingrédient,INGREDIENT,10,hard,3.29,https://www.motvalide.fr/mot/ingredient
 microscope,MICROSCOPE,10,hard,3.29,https://www.motvalide.fr/mot/microscope
 projectile,PROJECTILE,10,hard,3.29,https://www.motvalide.fr/mot/projectile
@@ -5842,6 +5924,7 @@ intégrisme,INTEGRISME,10,hard,3.10,https://www.motvalide.fr/mot/integrisme
 perversion,PERVERSION,10,hard,3.10,https://www.motvalide.fr/mot/perversion
 philologie,PHILOLOGIE,10,hard,3.10,https://www.motvalide.fr/mot/philologie
 réécriture,REECRITURE,10,hard,3.10,https://www.motvalide.fr/mot/reecriture
+suffisance,SUFFISANCE,10,hard,3.10,https://www.motvalide.fr/mot/suffisance
 virtuosité,VIRTUOSITE,10,hard,3.10,https://www.motvalide.fr/mot/virtuosite
 archevêché,ARCHEVECHE,10,hard,3.09,https://www.motvalide.fr/mot/archeveche
 conjecture,CONJECTURE,10,hard,3.09,https://www.motvalide.fr/mot/conjecture
@@ -5925,6 +6008,7 @@ compétition,COMPETITION,11,hard,4.64,https://www.motvalide.fr/mot/competition
 description,DESCRIPTION,11,hard,4.64,https://www.motvalide.fr/mot/description
 appartement,APPARTEMENT,11,hard,4.61,https://www.motvalide.fr/mot/appartement
 température,TEMPERATURE,11,hard,4.61,https://www.motvalide.fr/mot/temperature
+littérature,LITTERATURE,11,hard,4.59,https://www.motvalide.fr/mot/litterature
 réalisation,REALISATION,11,hard,4.59,https://www.motvalide.fr/mot/realisation
 commentaire,COMMENTAIRE,11,hard,4.58,https://www.motvalide.fr/mot/commentaire
 concurrence,CONCURRENCE,11,hard,4.58,https://www.motvalide.fr/mot/concurrence
@@ -6074,6 +6158,7 @@ gastronomie,GASTRONOMIE,11,hard,3.71,https://www.motvalide.fr/mot/gastronomie
 liquidation,LIQUIDATION,11,hard,3.71,https://www.motvalide.fr/mot/liquidation
 vaccination,VACCINATION,11,hard,3.71,https://www.motvalide.fr/mot/vaccination
 chroniqueur,CHRONIQUEUR,11,hard,3.69,https://www.motvalide.fr/mot/chroniqueur
+compilation,COMPILATION,11,hard,3.69,https://www.motvalide.fr/mot/compilation
 quinquennat,QUINQUENNAT,11,hard,3.69,https://www.motvalide.fr/mot/quinquennat
 restriction,RESTRICTION,11,hard,3.69,https://www.motvalide.fr/mot/restriction
 agriculteur,AGRICULTEUR,11,hard,3.68,https://www.motvalide.fr/mot/agriculteur
@@ -6086,6 +6171,7 @@ escroquerie,ESCROQUERIE,11,hard,3.67,https://www.motvalide.fr/mot/escroquerie
 instabilité,INSTABILITE,11,hard,3.67,https://www.motvalide.fr/mot/instabilite
 spécificité,SPECIFICITE,11,hard,3.67,https://www.motvalide.fr/mot/specificite
 développeur,DEVELOPPEUR,11,hard,3.66,https://www.motvalide.fr/mot/developpeur
+spéculation,SPECULATION,11,hard,3.66,https://www.motvalide.fr/mot/speculation
 contentieux,CONTENTIEUX,11,hard,3.65,https://www.motvalide.fr/mot/contentieux
 flexibilité,FLEXIBILITE,11,hard,3.65,https://www.motvalide.fr/mot/flexibilite
 malédiction,MALEDICTION,11,hard,3.65,https://www.motvalide.fr/mot/malediction
@@ -6541,6 +6627,7 @@ fermentation,FERMENTATION,12,hard,3.49,https://www.motvalide.fr/mot/fermentation
 inflammation,INFLAMMATION,12,hard,3.49,https://www.motvalide.fr/mot/inflammation
 légalisation,LEGALISATION,12,hard,3.49,https://www.motvalide.fr/mot/legalisation
 proclamation,PROCLAMATION,12,hard,3.49,https://www.motvalide.fr/mot/proclamation
+commentateur,COMMENTATEUR,12,hard,3.48,https://www.motvalide.fr/mot/commentateur
 discernement,DISCERNEMENT,12,hard,3.47,https://www.motvalide.fr/mot/discernement
 aristocratie,ARISTOCRATIE,12,hard,3.46,https://www.motvalide.fr/mot/aristocratie
 couronnement,COURONNEMENT,12,hard,3.46,https://www.motvalide.fr/mot/couronnement
@@ -6631,7 +6718,6 @@ illustrateur,ILLUSTRATEUR,12,hard,3.10,https://www.motvalide.fr/mot/illustrateur
 matérialisme,MATERIALISME,12,hard,3.10,https://www.motvalide.fr/mot/materialisme
 conscription,CONSCRIPTION,12,hard,3.09,https://www.motvalide.fr/mot/conscription
 enchantement,ENCHANTEMENT,12,hard,3.09,https://www.motvalide.fr/mot/enchantement
-prosélytisme,PROSELYTISME,12,hard,3.09,https://www.motvalide.fr/mot/proselytisme
 villégiature,VILLEGIATURE,12,hard,3.09,https://www.motvalide.fr/mot/villegiature
 accouplement,ACCOUPLEMENT,12,hard,3.08,https://www.motvalide.fr/mot/accouplement
 décapitation,DECAPITATION,12,hard,3.08,https://www.motvalide.fr/mot/decapitation

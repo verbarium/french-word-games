@@ -1,7 +1,7 @@
 word,spelling,zipf_frequency,is_answer
 COMME,comme,6.41,0
 CETTE,cette,6.35,0
-FAIRE,faire,6.34,0
+FAIRE,faire,6.34,1
 ETAIT,était,6.23,0
 AUSSI,aussi,6.19,0
 QUAND,quand,6.13,0
@@ -95,7 +95,7 @@ VOILA,voilà,5.25,0
 PLEIN,plein,5.24,1
 SERIE,série,5.24,1
 JOUER,jouer,5.23,1
-MERDE,merde,5.23,1
+MERDE,merde,5.23,0
 PARMI,parmi,5.23,0
 PEINE,peine,5.23,1
 ALLEZ,allez,5.22,0
@@ -122,7 +122,7 @@ BLANC,blanc,5.14,1
 LISTE,liste,5.14,1
 PHOTO,photo,5.14,1
 GARDE,garde,5.13,1
-ROUGE,rouge,5.13,0
+ROUGE,rouge,5.13,1
 OFFRE,offre,5.12,1
 PERDU,perdu,5.12,1
 SCENE,scène,5.12,1
@@ -130,11 +130,11 @@ SINON,sinon,5.12,0
 VOICI,voici,5.12,0
 CADRE,cadre,5.11,1
 LIBRE,libre,5.11,1
-VIEUX,vieux,5.11,0
+VIEUX,vieux,5.11,1
 IMAGE,image,5.10,1
 AIDER,aider,5.09,1
 COUPE,coupe,5.09,1
-ETUDE,étude,5.09,0
+ETUDE,étude,5.09,1
 OBJET,objet,5.09,1
 POSTE,poste,5.08,1
 SALLE,salle,5.08,1
@@ -211,7 +211,7 @@ STADE,stade,4.85,1
 VRAIE,vraie,4.85,0
 ADORE,adore,4.84,0
 DEBAT,débat,4.84,1
-DROLE,drôle,4.84,0
+DROLE,drôle,4.84,1
 COUPS,coups,4.83,0
 POSER,poser,4.83,1
 RUSSE,russe,4.83,1
@@ -290,7 +290,7 @@ AIMER,aimer,4.65,1
 AURAI,aurai,4.65,0
 BIENS,biens,4.65,0
 CHEFS,chefs,4.65,0
-JAUNE,jaune,4.65,0
+JAUNE,jaune,4.65,1
 JESUS,jésus,4.65,1
 JOLIE,jolie,4.65,0
 MORTE,morte,4.65,0
@@ -404,7 +404,7 @@ EGARD,égard,4.48,1
 LOURD,lourd,4.48,1
 MENER,mener,4.48,1
 MICRO,micro,4.48,1
-POCHE,poche,4.48,0
+POCHE,poche,4.48,1
 BASES,bases,4.47,0
 DELAI,délai,4.47,1
 IDEAL,idéal,4.47,1
@@ -442,7 +442,7 @@ CYCLE,cycle,4.43,1
 FETES,fêtes,4.43,0
 HENRY,henry,4.43,1
 OUTIL,outil,4.43,1
-QUEUE,queue,4.43,0
+QUEUE,queue,4.43,1
 TESTS,tests,4.43,0
 CORSE,corse,4.42,1
 PRIME,prime,4.42,1
@@ -458,7 +458,7 @@ VOLER,voler,4.41,1
 CULTE,culte,4.40,1
 DEPOT,dépôt,4.40,1
 DIGNE,digne,4.40,1
-LACHE,lâche,4.40,0
+LACHE,lâche,4.40,1
 ODEUR,odeur,4.40,1
 PITIE,pitié,4.40,1
 REFUS,refus,4.40,1
@@ -564,7 +564,7 @@ ADMIS,admis,4.26,1
 BASEE,basée,4.26,0
 DAMES,dames,4.26,0
 EXACT,exact,4.26,1
-FOUTU,foutu,4.26,0
+FOUTU,foutu,4.26,1
 ONDES,ondes,4.26,0
 PIANO,piano,4.26,1
 QUETE,quête,4.26,1
@@ -594,7 +594,7 @@ PARTS,parts,4.23,0
 SERGE,serge,4.23,1
 CESAR,césar,4.22,0
 CRIER,crier,4.22,1
-GOSSE,gosse,4.22,0
+GOSSE,gosse,4.22,1
 MARNE,marne,4.22,1
 NOBLE,noble,4.22,1
 POMME,pomme,4.22,1
@@ -641,7 +641,7 @@ EXIGE,exige,4.18,0
 HERBE,herbe,4.18,1
 RUGBY,rugby,4.18,1
 SENTI,senti,4.18,1
-SOUPE,soupe,4.18,0
+SOUPE,soupe,4.18,1
 BARON,baron,4.17,1
 BETON,béton,4.17,1
 DELIT,délit,4.17,1
@@ -670,7 +670,7 @@ MALIN,malin,4.15,1
 MOCHE,moche,4.15,1
 PIEGE,piège,4.15,1
 SAURA,saura,4.15,1
-TANTE,tante,4.15,0
+TANTE,tante,4.15,1
 VENTS,vents,4.15,0
 AMIES,amies,4.14,0
 COLIS,colis,4.14,1
@@ -705,13 +705,13 @@ SAISI,saisi,4.12,1
 BORDS,bords,4.11,0
 BULLE,bulle,4.11,1
 CHAOS,chaos,4.11,1
-CORDE,corde,4.11,0
+CORDE,corde,4.11,1
 EGALE,égale,4.11,0
 ENJEU,enjeu,4.11,1
 GLOBE,globe,4.11,1
 GRECS,grecs,4.11,0
 HOUSE,house,4.11,1
-LAPIN,lapin,4.11,0
+LAPIN,lapin,4.11,1
 MYTHE,mythe,4.11,1
 PAYES,payés,4.11,0
 PERES,pères,4.11,0
@@ -813,7 +813,7 @@ CHILI,chili,4.00,1
 FRIGO,frigo,4.00,1
 GRADE,grade,4.00,1
 HERVE,hervé,4.00,0
-LAINE,laine,4.00,0
+LAINE,laine,4.00,1
 PENAL,pénal,4.00,1
 RURAL,rural,4.00,1
 TWEET,tweet,4.00,0
@@ -1020,7 +1020,7 @@ CUITE,cuite,3.81,1
 DAMAS,damas,3.81,1
 GENES,gènes,3.81,0
 IRONT,iront,3.81,0
-PISSE,pisse,3.81,1
+PISSE,pisse,3.81,0
 RECUT,reçut,3.81,0
 RELIE,relié,3.81,1
 TUENT,tuent,3.81,0
@@ -1043,7 +1043,7 @@ DRIVE,drive,3.79,1
 FUSEE,fusée,3.79,1
 MELEE,mêlée,3.79,1
 MODEM,modem,3.79,1
-MOULE,moule,3.79,0
+MOULE,moule,3.79,1
 PALME,palme,3.79,1
 PARTE,parte,3.79,0
 PERLE,perle,3.79,1
@@ -1097,7 +1097,7 @@ RAVIE,ravie,3.75,0
 REGIS,régis,3.75,0
 ROMPU,rompu,3.75,1
 RUBAN,ruban,3.75,1
-SOURD,sourd,3.75,0
+SOURD,sourd,3.75,1
 TOITS,toits,3.75,0
 ABUSE,abusé,3.74,1
 CAVES,caves,3.74,0
@@ -1110,7 +1110,7 @@ ORALE,orale,3.74,0
 REAGI,réagi,3.74,0
 SERBE,serbe,3.74,1
 SOCLE,socle,3.74,1
-SUCER,sucer,3.74,0
+SUCER,sucer,3.74,1
 TORSE,torse,3.74,1
 CASES,cases,3.73,0
 DURES,dures,3.73,0
@@ -1454,12 +1454,12 @@ FABLE,fable,3.47,1
 GANGS,gangs,3.47,0
 JETEZ,jetez,3.47,0
 LEDIT,ledit,3.47,1
-MELON,melon,3.47,0
+MELON,melon,3.47,1
 REPIT,répit,3.47,1
 ATHEE,athée,3.46,1
 CASTE,caste,3.46,1
 CLICS,clics,3.46,0
-DINDE,dinde,3.46,0
+DINDE,dinde,3.46,1
 HALAL,halal,3.46,1
 LEONE,leone,3.46,0
 MEUFS,meufs,3.46,0
@@ -1475,13 +1475,13 @@ CAGES,cages,3.45,0
 CATCH,catch,3.45,1
 ECOLO,écolo,3.45,1
 EMISE,émise,3.45,0
-HORDE,horde,3.45,0
+HORDE,horde,3.45,1
 JUGEZ,jugez,3.45,0
 JUPES,jupes,3.45,0
 PACHA,pacha,3.45,1
 PARME,parme,3.45,1
 SUBIS,subis,3.45,0
-TYRAN,tyran,3.45,0
+TYRAN,tyran,3.45,1
 VALVE,valve,3.45,1
 VIREE,virée,3.45,1
 WATTS,watts,3.45,0
@@ -1559,7 +1559,7 @@ RELAX,relax,3.40,1
 REVET,revêt,3.40,0
 ROVER,rover,3.40,0
 TRASH,trash,3.40,0
-DIGUE,digue,3.39,0
+DIGUE,digue,3.39,1
 DUDIT,dudit,3.39,0
 ELISE,elise,3.39,0
 GENEE,gênée,3.39,0
@@ -1595,7 +1595,7 @@ VETUE,vêtue,3.38,0
 AGACE,agace,3.37,1
 AUTOS,autos,3.37,0
 BATTE,batte,3.37,1
-BILLE,bille,3.37,0
+BILLE,bille,3.37,1
 CLORE,clore,3.37,1
 EGOUT,égout,3.37,1
 ELFES,elfes,3.37,0
@@ -1782,7 +1782,7 @@ FLAIR,flair,3.25,1
 LARVE,larve,3.25,1
 MEDOC,médoc,3.25,1
 MOMES,mômes,3.25,0
-MORUE,morue,3.25,0
+MORUE,morue,3.25,1
 NOYES,noyés,3.25,0
 RONGE,ronge,3.25,0
 SATIN,satin,3.25,1
@@ -1874,7 +1874,7 @@ MELES,mêlés,3.19,0
 ORAUX,oraux,3.19,0
 ORNES,ornés,3.19,0
 PALMA,palma,3.19,0
-PITRE,pitre,3.19,0
+PITRE,pitre,3.19,1
 RECTO,recto,3.19,1
 SALAM,salam,3.19,1
 SIGLE,sigle,3.19,1
@@ -1891,7 +1891,7 @@ DEGAT,dégât,3.18,1
 DEVON,devon,3.18,1
 DUPES,dupes,3.18,0
 FOUTE,foute,3.18,0
-GARCE,garce,3.18,0
+GARCE,garce,3.18,1
 GRILL,grill,3.18,1
 LOUES,loués,3.18,0
 MALUS,malus,3.18,1
@@ -2028,7 +2028,7 @@ COLZA,colza,3.10,1
 ETHER,éther,3.10,1
 FENDU,fendu,3.10,1
 GENTE,gente,3.10,1
-GNOME,gnome,3.10,0
+GNOME,gnome,3.10,1
 INDUS,indus,3.10,0
 LAQUE,laque,3.10,1
 LOUVE,louve,3.10,0
@@ -2068,7 +2068,7 @@ GRIEF,grief,3.08,1
 HOSTO,hosto,3.08,1
 JARRE,jarre,3.08,1
 KRAFT,kraft,3.08,1
-LOSER,loser,3.08,1
+LOSER,loser,3.08,0
 PUENT,puent,3.08,0
 VOMIS,vomis,3.08,0
 BACHE,bâche,3.07,1
@@ -2150,7 +2150,7 @@ MEULE,meule,3.04,1
 NOCIF,nocif,3.04,1
 ODEON,odéon,3.04,1
 PLAID,plaid,3.04,1
-PLEBE,plèbe,3.04,0
+PLEBE,plèbe,3.04,1
 RABBI,rabbi,3.04,1
 TENDS,tends,3.04,0
 VERDI,verdi,3.04,1
@@ -2222,7 +2222,7 @@ PAQUE,pâque,3.00,1
 PENSA,pensa,3.00,0
 PIGER,piger,3.00,1
 PROUT,prout,3.00,1
-RATON,raton,3.00,0
+RATON,raton,3.00,1
 SIGMA,sigma,3.00,0
 SLIDE,slide,3.00,0
 USUEL,usuel,3.00,1

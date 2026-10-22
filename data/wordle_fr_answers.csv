@@ -1,4 +1,5 @@
 word,spelling,category,zipf_frequency,motvalide_url
+FAIRE,faire,verb,6.34,https://www.motvalide.fr/mot/faire
 AVOIR,avoir,noun,6.08,https://www.motvalide.fr/mot/avoir
 TEMPS,temps,noun,6.01,https://www.motvalide.fr/mot/temps
 AUTRE,autre,adjective,5.98,https://www.motvalide.fr/mot/autre
@@ -56,7 +57,6 @@ MATCH,match,noun,5.25,https://www.motvalide.fr/mot/match
 PLEIN,plein,adjective,5.24,https://www.motvalide.fr/mot/plein
 SERIE,série,noun,5.24,https://www.motvalide.fr/mot/serie
 JOUER,jouer,verb,5.23,https://www.motvalide.fr/mot/jouer
-MERDE,merde,noun,5.23,https://www.motvalide.fr/mot/merde
 PEINE,peine,noun,5.23,https://www.motvalide.fr/mot/peine
 DOUTE,doute,noun,5.22,https://www.motvalide.fr/mot/doute
 ECRIT,écrit,adjective,5.22,https://www.motvalide.fr/mot/ecrit
@@ -77,14 +77,17 @@ BLANC,blanc,adjective,5.14,https://www.motvalide.fr/mot/blanc
 LISTE,liste,noun,5.14,https://www.motvalide.fr/mot/liste
 PHOTO,photo,noun,5.14,https://www.motvalide.fr/mot/photo
 GARDE,garde,noun,5.13,https://www.motvalide.fr/mot/garde
+ROUGE,rouge,adjective,5.13,https://www.motvalide.fr/mot/rouge
 OFFRE,offre,noun,5.12,https://www.motvalide.fr/mot/offre
 PERDU,perdu,adjective,5.12,https://www.motvalide.fr/mot/perdu
 SCENE,scène,noun,5.12,https://www.motvalide.fr/mot/scene
 CADRE,cadre,noun,5.11,https://www.motvalide.fr/mot/cadre
 LIBRE,libre,adjective,5.11,https://www.motvalide.fr/mot/libre
+VIEUX,vieux,adjective,5.11,https://www.motvalide.fr/mot/vieux
 IMAGE,image,noun,5.10,https://www.motvalide.fr/mot/image
 AIDER,aider,verb,5.09,https://www.motvalide.fr/mot/aider
 COUPE,coupe,noun,5.09,https://www.motvalide.fr/mot/coupe
+ETUDE,étude,noun,5.09,https://www.motvalide.fr/mot/etude
 OBJET,objet,noun,5.09,https://www.motvalide.fr/mot/objet
 POSTE,poste,noun,5.08,https://www.motvalide.fr/mot/poste
 SALLE,salle,noun,5.08,https://www.motvalide.fr/mot/salle
@@ -141,6 +144,7 @@ HIVER,hiver,noun,4.85,https://www.motvalide.fr/mot/hiver
 LUTTE,lutte,noun,4.85,https://www.motvalide.fr/mot/lutte
 STADE,stade,noun,4.85,https://www.motvalide.fr/mot/stade
 DEBAT,débat,noun,4.84,https://www.motvalide.fr/mot/debat
+DROLE,drôle,adjective,4.84,https://www.motvalide.fr/mot/drole
 POSER,poser,verb,4.83,https://www.motvalide.fr/mot/poser
 RUSSE,russe,adjective,4.83,https://www.motvalide.fr/mot/russe
 TOMBE,tombe,noun,4.83,https://www.motvalide.fr/mot/tombe
@@ -194,6 +198,7 @@ AGENT,agent,noun,4.66,https://www.motvalide.fr/mot/agent
 GERER,gérer,verb,4.66,https://www.motvalide.fr/mot/gerer
 LOCAL,local,adjective,4.66,https://www.motvalide.fr/mot/local
 AIMER,aimer,verb,4.65,https://www.motvalide.fr/mot/aimer
+JAUNE,jaune,adjective,4.65,https://www.motvalide.fr/mot/jaune
 JESUS,jésus,noun,4.65,https://www.motvalide.fr/mot/jesus
 ARABE,arabe,adjective,4.64,https://www.motvalide.fr/mot/arabe
 CHUTE,chute,noun,4.64,https://www.motvalide.fr/mot/chute
@@ -270,6 +275,7 @@ EGARD,égard,noun,4.48,https://www.motvalide.fr/mot/egard
 LOURD,lourd,adjective,4.48,https://www.motvalide.fr/mot/lourd
 MENER,mener,verb,4.48,https://www.motvalide.fr/mot/mener
 MICRO,micro,noun,4.48,https://www.motvalide.fr/mot/micro
+POCHE,poche,noun,4.48,https://www.motvalide.fr/mot/poche
 DELAI,délai,noun,4.47,https://www.motvalide.fr/mot/delai
 IDEAL,idéal,adjective,4.47,https://www.motvalide.fr/mot/ideal
 PAUSE,pause,noun,4.47,https://www.motvalide.fr/mot/pause
@@ -298,6 +304,7 @@ REPOS,repos,noun,4.44,https://www.motvalide.fr/mot/repos
 CYCLE,cycle,noun,4.43,https://www.motvalide.fr/mot/cycle
 HENRY,henry,noun,4.43,https://www.motvalide.fr/mot/henry
 OUTIL,outil,noun,4.43,https://www.motvalide.fr/mot/outil
+QUEUE,queue,noun,4.43,https://www.motvalide.fr/mot/queue
 CORSE,corse,adjective,4.42,https://www.motvalide.fr/mot/corse
 PRIME,prime,adjective,4.42,https://www.motvalide.fr/mot/prime
 OCEAN,océan,noun,4.41,https://www.motvalide.fr/mot/ocean
@@ -307,6 +314,7 @@ VOLER,voler,verb,4.41,https://www.motvalide.fr/mot/voler
 CULTE,culte,noun,4.40,https://www.motvalide.fr/mot/culte
 DEPOT,dépôt,noun,4.40,https://www.motvalide.fr/mot/depot
 DIGNE,digne,adjective,4.40,https://www.motvalide.fr/mot/digne
+LACHE,lâche,adjective,4.40,https://www.motvalide.fr/mot/lache
 ODEUR,odeur,noun,4.40,https://www.motvalide.fr/mot/odeur
 PITIE,pitié,noun,4.40,https://www.motvalide.fr/mot/pitie
 REFUS,refus,noun,4.40,https://www.motvalide.fr/mot/refus
@@ -371,6 +379,7 @@ BONUS,bonus,noun,4.27,https://www.motvalide.fr/mot/bonus
 RONDE,ronde,noun,4.27,https://www.motvalide.fr/mot/ronde
 ADMIS,admis,adjective,4.26,https://www.motvalide.fr/mot/admis
 EXACT,exact,adjective,4.26,https://www.motvalide.fr/mot/exact
+FOUTU,foutu,adjective,4.26,https://www.motvalide.fr/mot/foutu
 PIANO,piano,noun,4.26,https://www.motvalide.fr/mot/piano
 QUETE,quête,noun,4.26,https://www.motvalide.fr/mot/quete
 SAUCE,sauce,noun,4.26,https://www.motvalide.fr/mot/sauce
@@ -392,6 +401,7 @@ TRAIT,trait,adjective,4.24,https://www.motvalide.fr/mot/trait
 CHAIR,chair,adjective,4.23,https://www.motvalide.fr/mot/chair
 SERGE,serge,noun,4.23,https://www.motvalide.fr/mot/serge
 CRIER,crier,verb,4.22,https://www.motvalide.fr/mot/crier
+GOSSE,gosse,noun,4.22,https://www.motvalide.fr/mot/gosse
 MARNE,marne,noun,4.22,https://www.motvalide.fr/mot/marne
 NOBLE,noble,adjective,4.22,https://www.motvalide.fr/mot/noble
 POMME,pomme,noun,4.22,https://www.motvalide.fr/mot/pomme
@@ -425,6 +435,7 @@ CONGE,congé,noun,4.18,https://www.motvalide.fr/mot/conge
 HERBE,herbe,noun,4.18,https://www.motvalide.fr/mot/herbe
 RUGBY,rugby,noun,4.18,https://www.motvalide.fr/mot/rugby
 SENTI,senti,adjective,4.18,https://www.motvalide.fr/mot/senti
+SOUPE,soupe,noun,4.18,https://www.motvalide.fr/mot/soupe
 BARON,baron,noun,4.17,https://www.motvalide.fr/mot/baron
 BETON,béton,noun,4.17,https://www.motvalide.fr/mot/beton
 DELIT,délit,noun,4.17,https://www.motvalide.fr/mot/delit
@@ -442,6 +453,7 @@ MALIN,malin,adjective,4.15,https://www.motvalide.fr/mot/malin
 MOCHE,moche,adjective,4.15,https://www.motvalide.fr/mot/moche
 PIEGE,piège,noun,4.15,https://www.motvalide.fr/mot/piege
 SAURA,saura,noun,4.15,https://www.motvalide.fr/mot/saura
+TANTE,tante,noun,4.15,https://www.motvalide.fr/mot/tante
 COLIS,colis,noun,4.14,https://www.motvalide.fr/mot/colis
 FIXER,fixer,verb,4.14,https://www.motvalide.fr/mot/fixer
 LOYER,loyer,noun,4.14,https://www.motvalide.fr/mot/loyer
@@ -463,9 +475,11 @@ PLOMB,plomb,noun,4.12,https://www.motvalide.fr/mot/plomb
 SAISI,saisi,adjective,4.12,https://www.motvalide.fr/mot/saisi
 BULLE,bulle,noun,4.11,https://www.motvalide.fr/mot/bulle
 CHAOS,chaos,noun,4.11,https://www.motvalide.fr/mot/chaos
+CORDE,corde,noun,4.11,https://www.motvalide.fr/mot/corde
 ENJEU,enjeu,noun,4.11,https://www.motvalide.fr/mot/enjeu
 GLOBE,globe,noun,4.11,https://www.motvalide.fr/mot/globe
 HOUSE,house,noun,4.11,https://www.motvalide.fr/mot/house
+LAPIN,lapin,noun,4.11,https://www.motvalide.fr/mot/lapin
 MYTHE,mythe,noun,4.11,https://www.motvalide.fr/mot/mythe
 SUBIT,subit,adjective,4.11,https://www.motvalide.fr/mot/subit
 BATON,bâton,noun,4.10,https://www.motvalide.fr/mot/baton
@@ -528,6 +542,7 @@ BOURG,bourg,noun,4.00,https://www.motvalide.fr/mot/bourg
 CHILI,chili,noun,4.00,https://www.motvalide.fr/mot/chili
 FRIGO,frigo,noun,4.00,https://www.motvalide.fr/mot/frigo
 GRADE,grade,noun,4.00,https://www.motvalide.fr/mot/grade
+LAINE,laine,noun,4.00,https://www.motvalide.fr/mot/laine
 PENAL,pénal,adjective,4.00,https://www.motvalide.fr/mot/penal
 RURAL,rural,adjective,4.00,https://www.motvalide.fr/mot/rural
 AMANT,amant,noun,3.99,https://www.motvalide.fr/mot/amant
@@ -661,7 +676,6 @@ TOMMY,tommy,noun,3.82,https://www.motvalide.fr/mot/tommy
 VIGNE,vigne,noun,3.82,https://www.motvalide.fr/mot/vigne
 CUITE,cuite,noun,3.81,https://www.motvalide.fr/mot/cuite
 DAMAS,damas,noun,3.81,https://www.motvalide.fr/mot/damas
-PISSE,pisse,noun,3.81,https://www.motvalide.fr/mot/pisse
 RELIE,relié,adjective,3.81,https://www.motvalide.fr/mot/relie
 CANNE,canne,noun,3.80,https://www.motvalide.fr/mot/canne
 COURU,couru,adjective,3.80,https://www.motvalide.fr/mot/couru
@@ -676,6 +690,7 @@ DRIVE,drive,noun,3.79,https://www.motvalide.fr/mot/drive
 FUSEE,fusée,noun,3.79,https://www.motvalide.fr/mot/fusee
 MELEE,mêlée,noun,3.79,https://www.motvalide.fr/mot/melee
 MODEM,modem,noun,3.79,https://www.motvalide.fr/mot/modem
+MOULE,moule,noun,3.79,https://www.motvalide.fr/mot/moule
 PALME,palme,noun,3.79,https://www.motvalide.fr/mot/palme
 PERLE,perle,noun,3.79,https://www.motvalide.fr/mot/perle
 SABRE,sabre,noun,3.79,https://www.motvalide.fr/mot/sabre
@@ -705,12 +720,14 @@ OBEIR,obéir,verb,3.75,https://www.motvalide.fr/mot/obeir
 RABAT,rabat,noun,3.75,https://www.motvalide.fr/mot/rabat
 ROMPU,rompu,adjective,3.75,https://www.motvalide.fr/mot/rompu
 RUBAN,ruban,noun,3.75,https://www.motvalide.fr/mot/ruban
+SOURD,sourd,adjective,3.75,https://www.motvalide.fr/mot/sourd
 ABUSE,abusé,adjective,3.74,https://www.motvalide.fr/mot/abuse
 FERRY,ferry,noun,3.74,https://www.motvalide.fr/mot/ferry
 FLEAU,fléau,noun,3.74,https://www.motvalide.fr/mot/fleau
 NAGER,nager,verb,3.74,https://www.motvalide.fr/mot/nager
 SERBE,serbe,adjective,3.74,https://www.motvalide.fr/mot/serbe
 SOCLE,socle,noun,3.74,https://www.motvalide.fr/mot/socle
+SUCER,sucer,verb,3.74,https://www.motvalide.fr/mot/sucer
 TORSE,torse,noun,3.74,https://www.motvalide.fr/mot/torse
 MATER,mater,verb,3.73,https://www.motvalide.fr/mot/mater
 NATIF,natif,adjective,3.73,https://www.motvalide.fr/mot/natif
@@ -911,16 +928,20 @@ CLERC,clerc,noun,3.47,https://www.motvalide.fr/mot/clerc
 CURIE,curie,noun,3.47,https://www.motvalide.fr/mot/curie
 FABLE,fable,noun,3.47,https://www.motvalide.fr/mot/fable
 LEDIT,ledit,adjective,3.47,https://www.motvalide.fr/mot/ledit
+MELON,melon,noun,3.47,https://www.motvalide.fr/mot/melon
 REPIT,répit,noun,3.47,https://www.motvalide.fr/mot/repit
 ATHEE,athée,adjective,3.46,https://www.motvalide.fr/mot/athee
 CASTE,caste,noun,3.46,https://www.motvalide.fr/mot/caste
+DINDE,dinde,noun,3.46,https://www.motvalide.fr/mot/dinde
 HALAL,halal,adjective,3.46,https://www.motvalide.fr/mot/halal
 PUNCH,punch,noun,3.46,https://www.motvalide.fr/mot/punch
 ARCHI,archi,noun,3.45,https://www.motvalide.fr/mot/archi
 CATCH,catch,noun,3.45,https://www.motvalide.fr/mot/catch
 ECOLO,écolo,noun,3.45,https://www.motvalide.fr/mot/ecolo
+HORDE,horde,noun,3.45,https://www.motvalide.fr/mot/horde
 PACHA,pacha,noun,3.45,https://www.motvalide.fr/mot/pacha
 PARME,parme,adjective,3.45,https://www.motvalide.fr/mot/parme
+TYRAN,tyran,noun,3.45,https://www.motvalide.fr/mot/tyran
 VALVE,valve,noun,3.45,https://www.motvalide.fr/mot/valve
 VIREE,virée,noun,3.45,https://www.motvalide.fr/mot/viree
 CIDRE,cidre,noun,3.44,https://www.motvalide.fr/mot/cidre
@@ -970,6 +991,7 @@ EXILE,exilé,adjective,3.40,https://www.motvalide.fr/mot/exile
 GLASS,glass,noun,3.40,https://www.motvalide.fr/mot/glass
 LIANT,liant,adjective,3.40,https://www.motvalide.fr/mot/liant
 RELAX,relax,adjective,3.40,https://www.motvalide.fr/mot/relax
+DIGUE,digue,noun,3.39,https://www.motvalide.fr/mot/digue
 NAVAL,naval,adjective,3.39,https://www.motvalide.fr/mot/naval
 PATCH,patch,noun,3.39,https://www.motvalide.fr/mot/patch
 SKATE,skate,noun,3.39,https://www.motvalide.fr/mot/skate
@@ -983,6 +1005,7 @@ MALLE,malle,noun,3.38,https://www.motvalide.fr/mot/malle
 SWING,swing,noun,3.38,https://www.motvalide.fr/mot/swing
 AGACE,agace,noun,3.37,https://www.motvalide.fr/mot/agace
 BATTE,batte,noun,3.37,https://www.motvalide.fr/mot/batte
+BILLE,bille,noun,3.37,https://www.motvalide.fr/mot/bille
 CLORE,clore,verb,3.37,https://www.motvalide.fr/mot/clore
 EGOUT,égout,noun,3.37,https://www.motvalide.fr/mot/egout
 GIFLE,gifle,noun,3.37,https://www.motvalide.fr/mot/gifle
@@ -1088,6 +1111,7 @@ CLICK,click,noun,3.25,https://www.motvalide.fr/mot/click
 FLAIR,flair,noun,3.25,https://www.motvalide.fr/mot/flair
 LARVE,larve,noun,3.25,https://www.motvalide.fr/mot/larve
 MEDOC,médoc,noun,3.25,https://www.motvalide.fr/mot/medoc
+MORUE,morue,noun,3.25,https://www.motvalide.fr/mot/morue
 SATIN,satin,noun,3.25,https://www.motvalide.fr/mot/satin
 TACLE,tacle,noun,3.25,https://www.motvalide.fr/mot/tacle
 TERNE,terne,adjective,3.25,https://www.motvalide.fr/mot/terne
@@ -1142,6 +1166,7 @@ BISON,bison,noun,3.19,https://www.motvalide.fr/mot/bison
 COCHE,coche,noun,3.19,https://www.motvalide.fr/mot/coche
 HOULE,houle,noun,3.19,https://www.motvalide.fr/mot/houle
 LANDE,lande,noun,3.19,https://www.motvalide.fr/mot/lande
+PITRE,pitre,noun,3.19,https://www.motvalide.fr/mot/pitre
 RECTO,recto,noun,3.19,https://www.motvalide.fr/mot/recto
 SALAM,salam,noun,3.19,https://www.motvalide.fr/mot/salam
 SIGLE,sigle,noun,3.19,https://www.motvalide.fr/mot/sigle
@@ -1149,6 +1174,7 @@ VEXER,vexer,verb,3.19,https://www.motvalide.fr/mot/vexer
 AGORA,agora,noun,3.18,https://www.motvalide.fr/mot/agora
 DEGAT,dégât,noun,3.18,https://www.motvalide.fr/mot/degat
 DEVON,devon,noun,3.18,https://www.motvalide.fr/mot/devon
+GARCE,garce,noun,3.18,https://www.motvalide.fr/mot/garce
 GRILL,grill,noun,3.18,https://www.motvalide.fr/mot/grill
 MALUS,malus,noun,3.18,https://www.motvalide.fr/mot/malus
 PILON,pilon,noun,3.18,https://www.motvalide.fr/mot/pilon
@@ -1216,6 +1242,7 @@ COLZA,colza,noun,3.10,https://www.motvalide.fr/mot/colza
 ETHER,éther,noun,3.10,https://www.motvalide.fr/mot/ether
 FENDU,fendu,adjective,3.10,https://www.motvalide.fr/mot/fendu
 GENTE,gente,adjective,3.10,https://www.motvalide.fr/mot/gente
+GNOME,gnome,noun,3.10,https://www.motvalide.fr/mot/gnome
 LAQUE,laque,noun,3.10,https://www.motvalide.fr/mot/laque
 MUNIR,munir,verb,3.10,https://www.motvalide.fr/mot/munir
 SABOT,sabot,noun,3.10,https://www.motvalide.fr/mot/sabot
@@ -1234,7 +1261,6 @@ GRIEF,grief,noun,3.08,https://www.motvalide.fr/mot/grief
 HOSTO,hosto,noun,3.08,https://www.motvalide.fr/mot/hosto
 JARRE,jarre,noun,3.08,https://www.motvalide.fr/mot/jarre
 KRAFT,kraft,noun,3.08,https://www.motvalide.fr/mot/kraft
-LOSER,loser,noun,3.08,https://www.motvalide.fr/mot/loser
 BACHE,bâche,noun,3.07,https://www.motvalide.fr/mot/bache
 BERET,béret,noun,3.07,https://www.motvalide.fr/mot/beret
 CEDRE,cèdre,noun,3.07,https://www.motvalide.fr/mot/cedre
@@ -1284,6 +1310,7 @@ MEULE,meule,noun,3.04,https://www.motvalide.fr/mot/meule
 NOCIF,nocif,adjective,3.04,https://www.motvalide.fr/mot/nocif
 ODEON,odéon,noun,3.04,https://www.motvalide.fr/mot/odeon
 PLAID,plaid,noun,3.04,https://www.motvalide.fr/mot/plaid
+PLEBE,plèbe,noun,3.04,https://www.motvalide.fr/mot/plebe
 RABBI,rabbi,noun,3.04,https://www.motvalide.fr/mot/rabbi
 VERDI,verdi,adjective,3.04,https://www.motvalide.fr/mot/verdi
 BOSCO,bosco,noun,3.03,https://www.motvalide.fr/mot/bosco
@@ -1322,4 +1349,5 @@ NONNE,nonne,noun,3.00,https://www.motvalide.fr/mot/nonne
 PAQUE,pâque,noun,3.00,https://www.motvalide.fr/mot/paque
 PIGER,piger,verb,3.00,https://www.motvalide.fr/mot/piger
 PROUT,prout,noun,3.00,https://www.motvalide.fr/mot/prout
+RATON,raton,noun,3.00,https://www.motvalide.fr/mot/raton
 USUEL,usuel,adjective,3.00,https://www.motvalide.fr/mot/usuel
